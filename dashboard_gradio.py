@@ -64,8 +64,8 @@ def predict_csv(file):
     return out_path
 
 with gr.Blocks(title="Hotel Review Analyzer") as demo:
-    gr.Markdown("# 🏨 Hotel Review Analyzer (minimale)
-Esegui prima il training (vedi README).")
+    gr.Markdown("""# 🏨 Hotel Review Analyzer (minimale)
+Esegui prima il training (vedi README).""")
 
     with gr.Tab("Predizione singola"):
         t = gr.Textbox(label="Titolo")
@@ -82,4 +82,4 @@ Esegui prima il training (vedi README).")
         btn2.click(predict_csv, inputs=[f], outputs=[out_file])
 
 if __name__ == "__main__":
-    demo.launch(share=False)
+    demo.launch(share=True)
