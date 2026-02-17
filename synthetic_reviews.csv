@@ -1,0 +1,601 @@
+id,title,body,department,sentiment
+6fe75ffd-9649-4e17-89f3-c66b4274f5d6,Colazione abbondante,"Buffet ricco e vario, prodotti freschi e buon caffè.",Food & Beverage,positivo
+ac4fd0c8-da65-4711-ac1c-946701b58a9d,Camera perfetta,"Camera pulita e profumata, bagno in ordine, asciugamani freschi.",Housekeeping,positivo
+53503605-2a7b-4f03-8961-0041a6921843,Prodotti di qualità,"Colazione con dolci buoni e scelta ampia, tutto molto curato.",Food & Beverage,positivo
+15317b49-19d7-4703-8821-367faf1858da,Camera perfetta,"Camera pulita e profumata, bagno in ordine, asciugamani freschi.",Housekeeping,positivo
+572d2cfa-61bf-4d52-b7ec-157aa64fd50e,Prodotti di qualità,"Colazione con dolci buoni e scelta ampia, tutto molto curato.",Food & Beverage,positivo
+142595f9-4911-4879-a67d-72076b846773,Colazione scarsa,"Poca scelta e prodotti non freschi, esperienza deludente.",Food & Beverage,negativo
+8d3f1eeb-1882-4bb9-bdd6-b544cd999ef6,Check-in veloce,"Arrivo rapido, check-in in pochi minuti e staff cordiale.",Reception,positivo
+5d29c8f1-2979-47c3-adbc-4787118697ab,Check-in lento,Attesa lunga per le chiavi e poca organizzazione al banco.,Reception,negativo
+d32916e3-3dce-45c2-9c3f-7843b36a4844,Check-in veloce,"Arrivo rapido, check-in in pochi minuti e staff cordiale.",Reception,positivo
+961b30ec-f81a-457a-81cc-8cfad6f59359,Poca disponibilità,Personale poco cortese e difficile ottenere informazioni.,Reception,negativo
+f1bdcf8b-ef6e-40b8-8bde-ee981f4e9350,Igiene scarsa,Ho trovato capelli nel bagno e cestino non svuotato.,Housekeeping,negativo
+73d52de1-3194-4dc9-a753-a966fffbad3a,Supporto perfetto,Alla reception hanno risolto subito una richiesta senza problemi.,Reception,positivo
+5ff07069-4c12-4dfa-a449-c23777a0205f,Servizio lento,Attesa troppo lunga al ristorante e personale distratto.,Food & Beverage,negativo
+8d408585-7702-4a8c-9327-d4689f19aa80,Bagno curato,"Bagno davvero pulito, doccia brillante e prodotti ben disposti.",Housekeeping,positivo
+7a22db0e-244e-4c3e-af01-1d4b31234d2e,Check-in veloce,"Arrivo rapido, check-in in pochi minuti e staff cordiale.",Reception,positivo
+f691b9c8-3bd8-484d-bc8f-c6d91ad59fd6,Problemi prenotazione,Errore nella prenotazione e tempi lunghi per sistemare tutto.,Reception,negativo
+9cfb8310-5479-421f-9126-d4df2f58db8f,Accoglienza ottima,"Personale disponibile, spiegazioni chiare e assistenza immediata.",Reception,positivo
+f33d63e5-1d9d-4206-9f25-14cfd4166b60,Servizio lento,Attesa troppo lunga al ristorante e personale distratto.,Food & Beverage,negativo
+7c0e472e-bc2e-4188-9ac2-cd2c656cb452,Prodotti di qualità,"Colazione con dolci buoni e scelta ampia, tutto molto curato.",Food & Beverage,positivo
+f0fd9fff-e200-4fbe-a119-520e52fda33d,Colazione abbondante,"Buffet ricco e vario, prodotti freschi e buon caffè.",Food & Beverage,positivo
+377a2b76-7e5d-46da-beca-dac9639d7ba2,Supporto perfetto,Alla reception hanno risolto subito una richiesta senza problemi.,Reception,positivo
+373163d2-0652-47f7-bc5a-b3586fd18f9e,Camera perfetta,"Camera pulita e profumata, bagno in ordine, asciugamani freschi.",Housekeeping,positivo
+20ee36e4-452a-49ba-b243-e76d16ac4c88,Check-in lento,Attesa lunga per le chiavi e poca organizzazione al banco.,Reception,negativo
+30e8e86d-3b21-45b8-bf8b-930c594ef515,Colazione scarsa,"Poca scelta e prodotti non freschi, esperienza deludente.",Food & Beverage,negativo
+61c8cf99-6cb9-4fab-bbec-1e9875141ab5,Check-in lento,Attesa lunga per le chiavi e poca organizzazione al banco.,Reception,negativo
+94d353f6-c4d5-4d07-933f-9a51b378eeba,Igiene scarsa,Ho trovato capelli nel bagno e cestino non svuotato.,Housekeeping,negativo
+be61d63b-6dd9-453e-baa0-3384b6be9767,Cibo freddo,Piatti arrivati tiepidi e buffet poco rifornito.,Food & Beverage,negativo
+32af5508-26bd-4cb1-ab82-3ff5c648db5a,Camera sporca,"Polvere sui mobili e lenzuola macchiate, pulizia insufficiente.",Housekeeping,negativo
+12c6ded6-6df6-4eff-8cbe-b2728fdd7e2f,Bagno curato,"Bagno davvero pulito, doccia brillante e prodotti ben disposti.",Housekeeping,positivo
+b5e7c41b-1e6d-4fe9-9239-1c75662d3fb5,Servizio lento,"Attesa troppo lunga al ristorante e personale distratto. Inoltre, personale poco cortese e difficile ottenere informazioni.",Food & Beverage,negativo
+bec5c110-2153-418e-8b93-c66b87da2a65,Supporto perfetto,Alla reception hanno risolto subito una richiesta senza problemi.,Reception,positivo
+1d773a65-7e47-4ee0-aa3e-2eeddbce83a0,Servizio lento,Attesa troppo lunga al ristorante e personale distratto.,Food & Beverage,negativo
+18f34465-56fd-40ce-a632-eeaf59de037c,Check-in lento,Attesa lunga per le chiavi e poca organizzazione al banco.,Reception,negativo
+a9778dd5-4213-4ceb-9017-96077efc344d,Servizio lento,Attesa troppo lunga al ristorante e personale distratto.,Food & Beverage,negativo
+ca6d3219-fe7a-4e09-a081-dfc158156825,Prodotti di qualità,"Colazione con dolci buoni e scelta ampia, tutto molto curato.",Food & Beverage,positivo
+67b0f3df-53ed-43c7-8f58-e004c0a4a8e7,Colazione abbondante,"Buffet ricco e vario, prodotti freschi e buon caffè.",Food & Beverage,positivo
+7fa953ef-6009-4d90-9bd8-74bcf32f6c43,Bagno curato,"Bagno davvero pulito, doccia brillante e prodotti ben disposti.",Housekeeping,positivo
+6362d8f0-1637-4c8d-89ff-fd42b5281bd6,Pulizie impeccabili,"Pulizia accurata ogni giorno, lenzuola pulite e stanza ordinata.",Housekeeping,positivo
+ce9a73f9-2bcf-4fe8-8d2e-82face191f9b,Check-in veloce,"Arrivo rapido, check-in in pochi minuti e staff cordiale.",Reception,positivo
+57bfff99-b63e-4117-99ab-3d4102117ead,Colazione abbondante,"Buffet ricco e vario, prodotti freschi e buon caffè.",Food & Beverage,positivo
+f6863e16-da50-4135-a34f-9cc88edd124b,Camera perfetta,"Camera pulita e profumata, bagno in ordine, asciugamani freschi.",Housekeeping,positivo
+2767a268-3c07-4e64-bb19-993dfed2bc9c,Ristorante ottimo,Piatti ben preparati e servizio attento in sala.,Food & Beverage,positivo
+769b0add-4ee2-47f6-9e87-29ef55e5db25,Colazione scarsa,"Poca scelta e prodotti non freschi, esperienza deludente.",Food & Beverage,negativo
+e56139be-a88e-48e7-957d-5e5870ae3084,Prodotti di qualità,"Colazione con dolci buoni e scelta ampia, tutto molto curato.",Food & Beverage,positivo
+a14369c3-8b58-415f-8344-017474da99c8,Cibo freddo,Piatti arrivati tiepidi e buffet poco rifornito.,Food & Beverage,negativo
+2a7d4a88-8e94-4faa-bc99-e9077a11f40d,Check-in veloce,"Arrivo rapido, check-in in pochi minuti e staff cordiale.",Reception,positivo
+4380f833-b323-413d-b74d-97fc38692a9b,Supporto perfetto,Alla reception hanno risolto subito una richiesta senza problemi.,Reception,positivo
+c8ab5d4d-2934-4af8-8fb9-7b46326c97db,Colazione abbondante,"Buffet ricco e vario, prodotti freschi e buon caffè. Inoltre, camera pulita e profumata, bagno in ordine, asciugamani freschi.",Food & Beverage,positivo
+c83a0cc7-8892-4c23-88b1-ec30454ccd70,Camera sporca,"Polvere sui mobili e lenzuola macchiate, pulizia insufficiente.",Housekeeping,negativo
+0c2989a2-c2ec-4748-85dd-d4c6e1cd796e,Check-in lento,Attesa lunga per le chiavi e poca organizzazione al banco.,Reception,negativo
+6be4176d-4d32-4405-9b3e-b169d6dc3168,Colazione scarsa,"Poca scelta e prodotti non freschi, esperienza deludente.",Food & Beverage,negativo
+b8c9e35a-e624-4054-81a8-0dea2efaf0d8,Check-in veloce,"Arrivo rapido, check-in in pochi minuti e staff cordiale. Inoltre, piatti arrivati tiepidi e buffet poco rifornito.",Reception,positivo
+d4347c44-05fc-4212-bc25-3ac99cbe76c6,Poca disponibilità,"Personale poco cortese e difficile ottenere informazioni. Inoltre, pulizia accurata ogni giorno, lenzuola pulite e stanza ordinata.",Reception,negativo
+30a13fe3-0952-4cef-9707-d7edc153a25f,Colazione scarsa,"Poca scelta e prodotti non freschi, esperienza deludente.",Food & Beverage,negativo
+e6317aba-936a-4650-9fb9-e7ae99e6fa3d,Camera sporca,"Polvere sui mobili e lenzuola macchiate, pulizia insufficiente.",Housekeeping,negativo
+9637c270-0f80-41a6-a203-a1187c864edf,Check-in lento,Attesa lunga per le chiavi e poca organizzazione al banco.,Reception,negativo
+fea2c9af-3151-4c9e-8fed-23458196a0a8,Igiene scarsa,"Ho trovato capelli nel bagno e cestino non svuotato. Inoltre, arrivo rapido, check-in in pochi minuti e staff cordiale.",Housekeeping,negativo
+24cc62b2-9546-41e1-aa7a-ddee5eb17d0e,Bagno trascurato,"Doccia incrostata e cattivo odore, bagno non pulito come dovrebbe.",Housekeeping,negativo
+18baa781-ad49-437c-a91a-201da46e2f7b,Check-in veloce,"Arrivo rapido, check-in in pochi minuti e staff cordiale.",Reception,positivo
+34af0775-85bd-413d-aee2-4fb0ce9780ac,Problemi prenotazione,Errore nella prenotazione e tempi lunghi per sistemare tutto.,Reception,negativo
+ffe2de07-06a7-4f28-98f0-fe9fb3740db5,Colazione scarsa,"Poca scelta e prodotti non freschi, esperienza deludente.",Food & Beverage,negativo
+741880f1-37da-4144-b159-d1d2dd7c0e3f,Bagno curato,"Bagno davvero pulito, doccia brillante e prodotti ben disposti.",Housekeeping,positivo
+23ff198b-6ecc-4eee-965a-5827b589cc0a,Camera sporca,"Polvere sui mobili e lenzuola macchiate, pulizia insufficiente. Inoltre, buffet ricco e vario, prodotti freschi e buon caffè.",Housekeeping,negativo
+778d629d-cf7d-4825-aab4-a38777c673de,Colazione abbondante,"Buffet ricco e vario, prodotti freschi e buon caffè. Inoltre, pulizia accurata ogni giorno, lenzuola pulite e stanza ordinata.",Food & Beverage,positivo
+e98dcdaf-218e-454a-940f-608f8c843c8b,Bagno curato,"Bagno davvero pulito, doccia brillante e prodotti ben disposti.",Housekeeping,positivo
+bbcf7d93-1dbf-49b7-86ba-ec24a5e232a0,Ristorante ottimo,Piatti ben preparati e servizio attento in sala.,Food & Beverage,positivo
+765c0a1f-0ffd-467d-9369-818fb17092ba,Cibo freddo,Piatti arrivati tiepidi e buffet poco rifornito.,Food & Beverage,negativo
+7159a118-a349-43de-9be5-4b8a44487e85,Colazione scarsa,"Poca scelta e prodotti non freschi, esperienza deludente.",Food & Beverage,negativo
+cbdbe9aa-7c90-4722-872c-198c384f96d6,Bagno trascurato,"Doccia incrostata e cattivo odore, bagno non pulito come dovrebbe.",Housekeeping,negativo
+fedd7466-1721-4775-b693-a762f5b1b0e5,Pulizie impeccabili,"Pulizia accurata ogni giorno, lenzuola pulite e stanza ordinata.",Housekeeping,positivo
+f255518d-f5ee-445c-bc93-a789758cb37c,Colazione abbondante,"Buffet ricco e vario, prodotti freschi e buon caffè.",Food & Beverage,positivo
+e715f605-6162-4029-845b-9af9efc6cb02,Colazione scarsa,"Poca scelta e prodotti non freschi, esperienza deludente.",Food & Beverage,negativo
+236efe7b-8bfe-4e15-8b5d-91f9a9902239,Pulizie impeccabili,"Pulizia accurata ogni giorno, lenzuola pulite e stanza ordinata.",Housekeeping,positivo
+f91eb178-264d-4c16-8af4-33167809a87f,Poca disponibilità,Personale poco cortese e difficile ottenere informazioni.,Reception,negativo
+40620595-fc55-4673-ba21-209a694bde5d,Prodotti di qualità,"Colazione con dolci buoni e scelta ampia, tutto molto curato.",Food & Beverage,positivo
+6a6b7fbe-2c93-43cc-ab5f-a5edc3437775,Check-in veloce,"Arrivo rapido, check-in in pochi minuti e staff cordiale.",Reception,positivo
+2eee8693-6fcc-4f61-980b-2ece2e02f597,Pulizie impeccabili,"Pulizia accurata ogni giorno, lenzuola pulite e stanza ordinata.",Housekeeping,positivo
+54f7882c-4ecd-4e26-bdfd-9eac8d96f11b,Camera sporca,"Polvere sui mobili e lenzuola macchiate, pulizia insufficiente.",Housekeeping,negativo
+b1ecb16f-5922-4259-b74b-a78ebd5d8fb5,Problemi prenotazione,Errore nella prenotazione e tempi lunghi per sistemare tutto.,Reception,negativo
+896cce6f-d3dd-4304-8208-3d02532c76f0,Bagno curato,"Bagno davvero pulito, doccia brillante e prodotti ben disposti.",Housekeeping,positivo
+084a921b-b726-43d7-9517-1b7fe9a84bf0,Check-in veloce,"Arrivo rapido, check-in in pochi minuti e staff cordiale.",Reception,positivo
+6f0c5279-9c85-4063-8b60-5b8386dcc6e0,Camera sporca,"Polvere sui mobili e lenzuola macchiate, pulizia insufficiente.",Housekeeping,negativo
+a5c34564-d81c-4a4f-8f86-b02afa4509aa,Servizio lento,"Attesa troppo lunga al ristorante e personale distratto. Inoltre, bagno davvero pulito, doccia brillante e prodotti ben disposti.",Food & Beverage,negativo
+4172fdd2-1b78-47fe-95b5-1152e5aca5e7,Igiene scarsa,Ho trovato capelli nel bagno e cestino non svuotato.,Housekeeping,negativo
+6abd55bb-0434-416c-abdf-67a4c4c2181e,Check-in veloce,"Arrivo rapido, check-in in pochi minuti e staff cordiale.",Reception,positivo
+a372e97e-d567-4bbe-8aa8-5fc77f352ca2,Camera sporca,"Polvere sui mobili e lenzuola macchiate, pulizia insufficiente.",Housekeeping,negativo
+ddae743d-e8ad-4dd9-8dee-0ee4d5fcc822,Ristorante ottimo,Piatti ben preparati e servizio attento in sala.,Food & Beverage,positivo
+b35234b8-4711-4f86-8ae9-aa0c9eb9d970,Check-in veloce,"Arrivo rapido, check-in in pochi minuti e staff cordiale.",Reception,positivo
+41be540f-ec13-43cd-9977-d09df800b5fb,Camera sporca,"Polvere sui mobili e lenzuola macchiate, pulizia insufficiente.",Housekeeping,negativo
+1924fe73-81e3-4439-8619-89200c51d269,Poca disponibilità,Personale poco cortese e difficile ottenere informazioni.,Reception,negativo
+c01f21ce-6f76-4e01-a4c5-434256fea7b4,Camera sporca,"Polvere sui mobili e lenzuola macchiate, pulizia insufficiente.",Housekeeping,negativo
+fdaa648c-3206-4679-b657-e0d0082efa93,Camera sporca,"Polvere sui mobili e lenzuola macchiate, pulizia insufficiente.",Housekeeping,negativo
+40d3d332-e98c-4bb0-a8b1-5a89b202dd95,Pulizie impeccabili,"Pulizia accurata ogni giorno, lenzuola pulite e stanza ordinata.",Housekeeping,positivo
+fb063d89-8454-4850-aef8-3d7e55d84b97,Camera perfetta,"Camera pulita e profumata, bagno in ordine, asciugamani freschi.",Housekeeping,positivo
+7b6846fd-1dce-4fc4-995b-89d7d10664f0,Problemi prenotazione,Errore nella prenotazione e tempi lunghi per sistemare tutto.,Reception,negativo
+92c461c0-0566-488f-b952-247f2f1d0d22,Poca disponibilità,Personale poco cortese e difficile ottenere informazioni.,Reception,negativo
+09ec8d7c-ceb1-4c44-bdf3-783cf529ec4c,Colazione scarsa,"Poca scelta e prodotti non freschi, esperienza deludente. Inoltre, alla reception hanno risolto subito una richiesta senza problemi.",Food & Beverage,negativo
+4397c767-3526-476e-94cd-16ed6ca8e32e,Check-in veloce,"Arrivo rapido, check-in in pochi minuti e staff cordiale.",Reception,positivo
+fdcdf3ea-8420-4dcd-b207-7075800c4d68,Problemi prenotazione,Errore nella prenotazione e tempi lunghi per sistemare tutto.,Reception,negativo
+40f8f65b-3cb4-43ca-8224-098943244a6d,Ristorante ottimo,Piatti ben preparati e servizio attento in sala.,Food & Beverage,positivo
+83f530af-3564-4f19-b225-0fe53608e2f0,Camera sporca,"Polvere sui mobili e lenzuola macchiate, pulizia insufficiente.",Housekeeping,negativo
+f1d71fd0-6fb5-44cc-9b98-b33f13b2965b,Pulizie impeccabili,"Pulizia accurata ogni giorno, lenzuola pulite e stanza ordinata.",Housekeeping,positivo
+aea5083b-09f8-4951-86be-2cc34a66db90,Servizio lento,Attesa troppo lunga al ristorante e personale distratto.,Food & Beverage,negativo
+57e5d8dd-92a2-4ec8-9fc8-9721ca7b8fc0,Igiene scarsa,Ho trovato capelli nel bagno e cestino non svuotato.,Housekeeping,negativo
+2a7d3021-46a9-4c16-b2de-b6a72e711b06,Problemi prenotazione,Errore nella prenotazione e tempi lunghi per sistemare tutto.,Reception,negativo
+51e6ccab-608c-41e2-9eeb-dc1c0d65b482,Colazione abbondante,"Buffet ricco e vario, prodotti freschi e buon caffè.",Food & Beverage,positivo
+9dcf7515-9b89-4a7d-b686-d5c6935e1f16,Supporto perfetto,Alla reception hanno risolto subito una richiesta senza problemi.,Reception,positivo
+23d8dd91-9ddb-4e20-864d-4cbdd4c0914c,Accoglienza ottima,"Personale disponibile, spiegazioni chiare e assistenza immediata.",Reception,positivo
+62624ab5-638d-4ec8-8c6e-06346e57b6a3,Problemi prenotazione,Errore nella prenotazione e tempi lunghi per sistemare tutto.,Reception,negativo
+ed2d7b71-5d78-4c5b-a6df-188a6cbc1695,Prodotti di qualità,"Colazione con dolci buoni e scelta ampia, tutto molto curato.",Food & Beverage,positivo
+ad33846f-6150-4475-b2ac-e01c05cc8ead,Prodotti di qualità,"Colazione con dolci buoni e scelta ampia, tutto molto curato. Inoltre, arrivo rapido, check-in in pochi minuti e staff cordiale.",Food & Beverage,positivo
+066b7470-d83e-406f-a8f5-effcbd730d60,Colazione scarsa,"Poca scelta e prodotti non freschi, esperienza deludente.",Food & Beverage,negativo
+659e20bf-48d2-4167-ba86-0c1d976c25e5,Camera perfetta,"Camera pulita e profumata, bagno in ordine, asciugamani freschi.",Housekeeping,positivo
+d1617c8c-c83b-4fe5-a074-5e9f0ea795de,Accoglienza ottima,"Personale disponibile, spiegazioni chiare e assistenza immediata.",Reception,positivo
+1658e8b7-fddb-40ca-984d-2bb096ff0e28,Prodotti di qualità,"Colazione con dolci buoni e scelta ampia, tutto molto curato.",Food & Beverage,positivo
+6dc49d1c-c19f-40be-83e7-a19595964d0e,Check-in lento,Attesa lunga per le chiavi e poca organizzazione al banco.,Reception,negativo
+90a29ba1-bd50-4c48-99c4-70f6d1bf406a,Colazione abbondante,"Buffet ricco e vario, prodotti freschi e buon caffè.",Food & Beverage,positivo
+d7f2657a-7fbd-4277-a510-4bae4a392264,Bagno curato,"Bagno davvero pulito, doccia brillante e prodotti ben disposti.",Housekeeping,positivo
+8e3da428-6104-469f-a8b1-0218d9cdfc42,Camera perfetta,"Camera pulita e profumata, bagno in ordine, asciugamani freschi.",Housekeeping,positivo
+6c8aa954-b8b2-4cf1-b39e-07c15fe2b670,Problemi prenotazione,Errore nella prenotazione e tempi lunghi per sistemare tutto.,Reception,negativo
+845a7b24-9cf5-41e8-9978-9a68a4cad839,Servizio lento,Attesa troppo lunga al ristorante e personale distratto.,Food & Beverage,negativo
+cae9cc75-c2e6-48d5-a474-2ad54601c5f8,Bagno trascurato,"Doccia incrostata e cattivo odore, bagno non pulito come dovrebbe.",Housekeeping,negativo
+e9abf13d-7dc1-466e-8e7b-65744deb39cf,Igiene scarsa,Ho trovato capelli nel bagno e cestino non svuotato.,Housekeeping,negativo
+7378f80a-a571-4d84-b0cb-c965eede95d9,Bagno trascurato,"Doccia incrostata e cattivo odore, bagno non pulito come dovrebbe. Inoltre, piatti ben preparati e servizio attento in sala.",Housekeeping,negativo
+1ae7e40b-b388-4b48-b2ed-ba79cfef87f0,Poca disponibilità,"Personale poco cortese e difficile ottenere informazioni. Inoltre, pulizia accurata ogni giorno, lenzuola pulite e stanza ordinata.",Reception,negativo
+a5b94cbe-7dc3-472e-95e7-57dae8bff777,Prodotti di qualità,"Colazione con dolci buoni e scelta ampia, tutto molto curato.",Food & Beverage,positivo
+123b0d41-45d7-49f6-8852-77f8b82e4410,Problemi prenotazione,Errore nella prenotazione e tempi lunghi per sistemare tutto.,Reception,negativo
+2a0d2ad0-98e5-4cdd-b718-6070e8866a7b,Check-in veloce,"Arrivo rapido, check-in in pochi minuti e staff cordiale.",Reception,positivo
+df62ccdf-0376-4793-96ac-0a011b6193bc,Supporto perfetto,Alla reception hanno risolto subito una richiesta senza problemi.,Reception,positivo
+9f9eee6a-489a-4616-9d9c-d26c87366aca,Bagno trascurato,"Doccia incrostata e cattivo odore, bagno non pulito come dovrebbe.",Housekeeping,negativo
+9f7e673f-4a28-44ec-89a3-9db83d3835c2,Accoglienza ottima,"Personale disponibile, spiegazioni chiare e assistenza immediata.",Reception,positivo
+7516406a-0856-4ea7-af60-8b166516b1f1,Check-in lento,Attesa lunga per le chiavi e poca organizzazione al banco.,Reception,negativo
+4b6f762a-3b1c-42bd-886b-c845c5656783,Servizio lento,Attesa troppo lunga al ristorante e personale distratto.,Food & Beverage,negativo
+b78d96d9-b153-4b0f-b9c9-c543de93539c,Supporto perfetto,Alla reception hanno risolto subito una richiesta senza problemi.,Reception,positivo
+0f35fbf2-c09f-4804-8c0b-cb194fa54903,Check-in veloce,"Arrivo rapido, check-in in pochi minuti e staff cordiale.",Reception,positivo
+9cbd8399-94a5-4b6b-b043-e620446de411,Camera sporca,"Polvere sui mobili e lenzuola macchiate, pulizia insufficiente. Inoltre, poca scelta e prodotti non freschi, esperienza deludente.",Housekeeping,negativo
+501f3020-d610-4520-b7f9-02d286b00dbd,Problemi prenotazione,Errore nella prenotazione e tempi lunghi per sistemare tutto.,Reception,negativo
+10b8e100-93f0-46bc-bb09-e6cbaa3114ce,Problemi prenotazione,Errore nella prenotazione e tempi lunghi per sistemare tutto.,Reception,negativo
+765d229c-4ee7-4c02-a4c9-1d0ee4237149,Camera sporca,"Polvere sui mobili e lenzuola macchiate, pulizia insufficiente.",Housekeeping,negativo
+cc78495f-96cb-4308-bde5-4ceddfab9731,Camera sporca,"Polvere sui mobili e lenzuola macchiate, pulizia insufficiente.",Housekeeping,negativo
+c1becb88-ee05-42de-9c67-ba201451f069,Colazione abbondante,"Buffet ricco e vario, prodotti freschi e buon caffè.",Food & Beverage,positivo
+085d58b5-857b-4846-a0e3-7ed38f404fe6,Bagno curato,"Bagno davvero pulito, doccia brillante e prodotti ben disposti.",Housekeeping,positivo
+ea2899e1-07b6-4c7d-860a-37c2ed9b2e60,Igiene scarsa,"Ho trovato capelli nel bagno e cestino non svuotato. Inoltre, personale poco cortese e difficile ottenere informazioni.",Housekeeping,negativo
+e153c516-071e-47b7-9033-76641fd1daab,Check-in lento,Attesa lunga per le chiavi e poca organizzazione al banco.,Reception,negativo
+900e7a3d-5795-4e7f-a61a-36c03294d9b0,Colazione abbondante,"Buffet ricco e vario, prodotti freschi e buon caffè.",Food & Beverage,positivo
+1cbeb2c6-e726-457e-a8da-8a3b8bd45553,Pulizie impeccabili,"Pulizia accurata ogni giorno, lenzuola pulite e stanza ordinata.",Housekeeping,positivo
+37d5f7b8-91a0-46aa-b6df-4f45f352245a,Poca disponibilità,Personale poco cortese e difficile ottenere informazioni.,Reception,negativo
+f3d85c92-2488-4bec-800a-0c1156ad8000,Colazione abbondante,"Buffet ricco e vario, prodotti freschi e buon caffè.",Food & Beverage,positivo
+7e37f13e-f7a9-4a43-914e-ef7a465d71c5,Supporto perfetto,Alla reception hanno risolto subito una richiesta senza problemi.,Reception,positivo
+47d3913e-cb1a-4c9e-b2ab-c86d939ad4fb,Poca disponibilità,Personale poco cortese e difficile ottenere informazioni.,Reception,negativo
+b03c9f3b-bc9b-4e18-8cef-157457b17e24,Colazione scarsa,"Poca scelta e prodotti non freschi, esperienza deludente.",Food & Beverage,negativo
+f4283f99-260f-4b8f-a5c0-036c9e90cf02,Accoglienza ottima,"Personale disponibile, spiegazioni chiare e assistenza immediata.",Reception,positivo
+d7f5c6b0-4155-41aa-a9c5-17a812b783ef,Servizio lento,Attesa troppo lunga al ristorante e personale distratto.,Food & Beverage,negativo
+b4c119e4-abac-4977-a60a-724c7e30d814,Igiene scarsa,Ho trovato capelli nel bagno e cestino non svuotato.,Housekeeping,negativo
+3e4b6d36-e61e-4275-a139-16dae9b57c10,Cibo freddo,Piatti arrivati tiepidi e buffet poco rifornito.,Food & Beverage,negativo
+a39f9102-65a8-424f-acd0-3e82f5a41072,Cibo freddo,Piatti arrivati tiepidi e buffet poco rifornito.,Food & Beverage,negativo
+6af3a1cb-c0f5-444e-8ff7-2d1ae6de2cbd,Bagno trascurato,"Doccia incrostata e cattivo odore, bagno non pulito come dovrebbe.",Housekeeping,negativo
+a3a17abe-ae5c-4376-801b-fe7fb00efa49,Problemi prenotazione,"Errore nella prenotazione e tempi lunghi per sistemare tutto. Inoltre, piatti ben preparati e servizio attento in sala.",Reception,negativo
+fa3cd416-8d98-42ac-9762-70930eb95a8e,Bagno trascurato,"Doccia incrostata e cattivo odore, bagno non pulito come dovrebbe.",Housekeeping,negativo
+5f8b0a7e-bb36-4323-9fe9-79f6824410ff,Servizio lento,"Attesa troppo lunga al ristorante e personale distratto. Inoltre, camera pulita e profumata, bagno in ordine, asciugamani freschi.",Food & Beverage,negativo
+1f27ef75-e3e3-4c3d-81eb-9bd406764501,Cibo freddo,Piatti arrivati tiepidi e buffet poco rifornito.,Food & Beverage,negativo
+c6015587-b3df-475b-b555-f28aee030bb6,Igiene scarsa,Ho trovato capelli nel bagno e cestino non svuotato.,Housekeeping,negativo
+efb7062d-7618-49fc-b3ec-5595fe7e75bc,Check-in veloce,"Arrivo rapido, check-in in pochi minuti e staff cordiale.",Reception,positivo
+34c6601f-aa43-47c6-a7db-e908aa273842,Accoglienza ottima,"Personale disponibile, spiegazioni chiare e assistenza immediata.",Reception,positivo
+465687ad-e90e-4442-bce7-55092b0d38c4,Poca disponibilità,Personale poco cortese e difficile ottenere informazioni.,Reception,negativo
+607ead91-9475-4fa1-bd6f-8eccc76d85dc,Problemi prenotazione,Errore nella prenotazione e tempi lunghi per sistemare tutto.,Reception,negativo
+68dc9f5b-4ff8-45f0-aea9-2055cd72715f,Problemi prenotazione,Errore nella prenotazione e tempi lunghi per sistemare tutto.,Reception,negativo
+47736f31-8bb2-464a-9793-52450065bd40,Ristorante ottimo,"Piatti ben preparati e servizio attento in sala. Inoltre, camera pulita e profumata, bagno in ordine, asciugamani freschi.",Food & Beverage,positivo
+d5c67a11-5eb0-4882-974e-d2434cddc336,Cibo freddo,Piatti arrivati tiepidi e buffet poco rifornito.,Food & Beverage,negativo
+88a74a2e-c1d8-4b83-b842-6d804550ffb7,Colazione scarsa,"Poca scelta e prodotti non freschi, esperienza deludente.",Food & Beverage,negativo
+cce7f4f8-d562-4b9f-b31e-e0662b3d5f49,Accoglienza ottima,"Personale disponibile, spiegazioni chiare e assistenza immediata.",Reception,positivo
+60ff9a23-343a-4e55-b6bf-b12ffe1cf229,Pulizie impeccabili,"Pulizia accurata ogni giorno, lenzuola pulite e stanza ordinata. Inoltre, personale poco cortese e difficile ottenere informazioni.",Housekeeping,positivo
+2b3a7d78-da0b-467c-b39a-1ba54eb5f98c,Camera sporca,"Polvere sui mobili e lenzuola macchiate, pulizia insufficiente.",Housekeeping,negativo
+1571c816-8177-424f-9acd-aecd563bc1e0,Cibo freddo,Piatti arrivati tiepidi e buffet poco rifornito.,Food & Beverage,negativo
+caf4e469-e889-4dfa-98c8-c1268ba7d90f,Check-in veloce,"Arrivo rapido, check-in in pochi minuti e staff cordiale.",Reception,positivo
+c51dc3dd-7de7-4bd9-8f8f-82d1f2639762,Check-in veloce,"Arrivo rapido, check-in in pochi minuti e staff cordiale.",Reception,positivo
+19610776-bea2-4365-93d2-90f31187189c,Camera perfetta,"Camera pulita e profumata, bagno in ordine, asciugamani freschi.",Housekeeping,positivo
+745ec8b7-bc82-462c-a223-8bbd2b2736b0,Colazione scarsa,"Poca scelta e prodotti non freschi, esperienza deludente.",Food & Beverage,negativo
+cda9a57e-6636-4383-acdc-2690c7b81998,Igiene scarsa,Ho trovato capelli nel bagno e cestino non svuotato.,Housekeeping,negativo
+a9ae2a97-4c29-4e61-97cf-94b8cbc8a59e,Prodotti di qualità,"Colazione con dolci buoni e scelta ampia, tutto molto curato.",Food & Beverage,positivo
+17a8e019-adbb-4cb9-aa14-a1d1a2581064,Poca disponibilità,Personale poco cortese e difficile ottenere informazioni.,Reception,negativo
+0971f5f4-fa93-47f1-a88f-b6d83ee3d83b,Supporto perfetto,Alla reception hanno risolto subito una richiesta senza problemi.,Reception,positivo
+ed80e8f4-9b41-416e-b030-62b2cdcc0bfc,Bagno curato,"Bagno davvero pulito, doccia brillante e prodotti ben disposti.",Housekeeping,positivo
+694ae349-303d-41cb-b163-cf5272f327f2,Colazione abbondante,"Buffet ricco e vario, prodotti freschi e buon caffè.",Food & Beverage,positivo
+1b0d0be8-0c4a-4c30-9d9e-387479982dd6,Colazione abbondante,"Buffet ricco e vario, prodotti freschi e buon caffè. Inoltre, errore nella prenotazione e tempi lunghi per sistemare tutto.",Food & Beverage,positivo
+83ac4c27-1eb8-4a50-8685-ea3aa96d42ba,Pulizie impeccabili,"Pulizia accurata ogni giorno, lenzuola pulite e stanza ordinata.",Housekeeping,positivo
+40f876f1-f8eb-4b98-aa48-a7b03a55682e,Colazione scarsa,"Poca scelta e prodotti non freschi, esperienza deludente.",Food & Beverage,negativo
+b2df7085-a03f-462e-8557-f4d3f2668c96,Accoglienza ottima,"Personale disponibile, spiegazioni chiare e assistenza immediata. Inoltre, pulizia accurata ogni giorno, lenzuola pulite e stanza ordinata.",Reception,positivo
+fc5ea5dd-5439-49b0-a28d-47d9379c8651,Camera perfetta,"Camera pulita e profumata, bagno in ordine, asciugamani freschi.",Housekeeping,positivo
+bc0efaae-57c9-48dd-b86e-8caae809aebc,Problemi prenotazione,Errore nella prenotazione e tempi lunghi per sistemare tutto.,Reception,negativo
+0f2429a9-e0d9-4767-b905-92a8896c4c08,Servizio lento,Attesa troppo lunga al ristorante e personale distratto.,Food & Beverage,negativo
+b44937d2-10c7-44c9-b515-aeee7fdfa4bb,Problemi prenotazione,"Errore nella prenotazione e tempi lunghi per sistemare tutto. Inoltre, ho trovato capelli nel bagno e cestino non svuotato.",Reception,negativo
+bf8bfd39-e59f-40e7-a5f3-08f0b4571914,Check-in lento,"Attesa lunga per le chiavi e poca organizzazione al banco. Inoltre, ho trovato capelli nel bagno e cestino non svuotato.",Reception,negativo
+7f8157e9-c0ac-41be-9d16-a9fc73f03718,Pulizie impeccabili,"Pulizia accurata ogni giorno, lenzuola pulite e stanza ordinata.",Housekeeping,positivo
+fcce92fc-a5b7-42b2-ae8c-327ca79ac8fa,Check-in lento,Attesa lunga per le chiavi e poca organizzazione al banco.,Reception,negativo
+12f1d570-0ce2-4ae4-810c-3b31d85c1353,Check-in lento,Attesa lunga per le chiavi e poca organizzazione al banco.,Reception,negativo
+9c37d218-605a-43b5-abf8-d2b39403d473,Problemi prenotazione,Errore nella prenotazione e tempi lunghi per sistemare tutto.,Reception,negativo
+eb6e75a4-4292-4a09-91ce-27259c562caa,Bagno trascurato,"Doccia incrostata e cattivo odore, bagno non pulito come dovrebbe.",Housekeeping,negativo
+f0a778dc-64a6-42a8-9bac-ab4ee1ed0d22,Poca disponibilità,"Personale poco cortese e difficile ottenere informazioni. Inoltre, doccia incrostata e cattivo odore, bagno non pulito come dovrebbe.",Reception,negativo
+843fca71-16f2-4edc-b092-1c9e41e3883c,Accoglienza ottima,"Personale disponibile, spiegazioni chiare e assistenza immediata.",Reception,positivo
+6ceec891-32a2-4c94-95f6-7554e7fc222a,Bagno trascurato,"Doccia incrostata e cattivo odore, bagno non pulito come dovrebbe. Inoltre, attesa troppo lunga al ristorante e personale distratto.",Housekeeping,negativo
+ce98df61-ca75-4075-8205-d6d76df79c48,Check-in veloce,"Arrivo rapido, check-in in pochi minuti e staff cordiale.",Reception,positivo
+ceba65a2-3d5e-4a1c-a37c-f11668057534,Bagno trascurato,"Doccia incrostata e cattivo odore, bagno non pulito come dovrebbe.",Housekeeping,negativo
+15579a95-57b3-4050-a035-b713902d3615,Check-in veloce,"Arrivo rapido, check-in in pochi minuti e staff cordiale.",Reception,positivo
+751b2c29-62d5-423b-849f-f70b3835ba60,Prodotti di qualità,"Colazione con dolci buoni e scelta ampia, tutto molto curato.",Food & Beverage,positivo
+b78d5719-f8c9-4503-980b-54de9835c8ec,Prodotti di qualità,"Colazione con dolci buoni e scelta ampia, tutto molto curato.",Food & Beverage,positivo
+43099add-7e96-4b5f-97ec-270884adec19,Pulizie impeccabili,"Pulizia accurata ogni giorno, lenzuola pulite e stanza ordinata.",Housekeeping,positivo
+32ef8c1b-244a-447a-9d18-feef49ed0664,Ristorante ottimo,Piatti ben preparati e servizio attento in sala.,Food & Beverage,positivo
+0cc72800-2134-44ef-994f-64a2479db01b,Problemi prenotazione,Errore nella prenotazione e tempi lunghi per sistemare tutto.,Reception,negativo
+fe712083-aa16-45d8-9d7e-566646ea846d,Accoglienza ottima,"Personale disponibile, spiegazioni chiare e assistenza immediata.",Reception,positivo
+348bb824-7eb5-4910-b9dd-618ecad7bc0b,Supporto perfetto,Alla reception hanno risolto subito una richiesta senza problemi.,Reception,positivo
+ce18e534-f915-40f0-bb61-fb2ac4506464,Pulizie impeccabili,"Pulizia accurata ogni giorno, lenzuola pulite e stanza ordinata.",Housekeeping,positivo
+62bd9ac5-f2ef-4f89-a880-a7715f55ce6a,Poca disponibilità,Personale poco cortese e difficile ottenere informazioni.,Reception,negativo
+f0f94ac0-b8c1-4d93-80da-4f7d5111bf8f,Igiene scarsa,Ho trovato capelli nel bagno e cestino non svuotato.,Housekeeping,negativo
+b084c7bf-5a3a-44ed-9b02-49593dcebbe2,Colazione scarsa,"Poca scelta e prodotti non freschi, esperienza deludente.",Food & Beverage,negativo
+54be824b-8cdf-4dd8-829b-b3dccbdd7a48,Problemi prenotazione,Errore nella prenotazione e tempi lunghi per sistemare tutto.,Reception,negativo
+50617912-d678-41ac-8515-06c72d12e026,Cibo freddo,Piatti arrivati tiepidi e buffet poco rifornito.,Food & Beverage,negativo
+3de19c49-d5ff-4202-9627-0be66169e266,Bagno curato,"Bagno davvero pulito, doccia brillante e prodotti ben disposti.",Housekeeping,positivo
+57b28d29-bf03-49db-8ecb-8c4de14f13d5,Accoglienza ottima,"Personale disponibile, spiegazioni chiare e assistenza immediata.",Reception,positivo
+b0d44cbf-bf44-475e-94ac-3a106f7e4756,Cibo freddo,Piatti arrivati tiepidi e buffet poco rifornito.,Food & Beverage,negativo
+f4fe8935-277b-4fda-8fd5-312f58ad463b,Ristorante ottimo,Piatti ben preparati e servizio attento in sala.,Food & Beverage,positivo
+f0c76b4a-9146-4f9e-bf17-24d56387f230,Camera sporca,"Polvere sui mobili e lenzuola macchiate, pulizia insufficiente.",Housekeeping,negativo
+497e2706-efa7-447c-b876-90e8de590d03,Supporto perfetto,Alla reception hanno risolto subito una richiesta senza problemi.,Reception,positivo
+51685993-7144-41b1-9c1d-12ccd9894128,Pulizie impeccabili,"Pulizia accurata ogni giorno, lenzuola pulite e stanza ordinata.",Housekeeping,positivo
+f1b9350a-4035-4a3e-892d-4ca75d13d851,Pulizie impeccabili,"Pulizia accurata ogni giorno, lenzuola pulite e stanza ordinata.",Housekeeping,positivo
+869ef12c-0625-45fa-8320-1517ee923e1e,Poca disponibilità,Personale poco cortese e difficile ottenere informazioni.,Reception,negativo
+be7f6980-5251-47c9-a593-51885544d929,Ristorante ottimo,Piatti ben preparati e servizio attento in sala.,Food & Beverage,positivo
+9471db3c-9056-4a6a-940e-cc7b612aa7c9,Cibo freddo,Piatti arrivati tiepidi e buffet poco rifornito.,Food & Beverage,negativo
+31ec648f-92e1-4668-8ebf-5f7e2e180905,Supporto perfetto,"Alla reception hanno risolto subito una richiesta senza problemi. Inoltre, colazione con dolci buoni e scelta ampia, tutto molto curato.",Reception,positivo
+aec3c838-fa55-4717-a006-6e2f26e1394e,Camera sporca,"Polvere sui mobili e lenzuola macchiate, pulizia insufficiente.",Housekeeping,negativo
+c3bd7fd3-05fd-4942-8f09-b75ff340765b,Ristorante ottimo,Piatti ben preparati e servizio attento in sala.,Food & Beverage,positivo
+5f616a4f-fe7e-4b33-a699-46918d809894,Check-in veloce,"Arrivo rapido, check-in in pochi minuti e staff cordiale.",Reception,positivo
+265432f8-a9cd-4ec8-b2f2-3e07187466d5,Bagno trascurato,"Doccia incrostata e cattivo odore, bagno non pulito come dovrebbe.",Housekeeping,negativo
+5dcf93f4-c285-472f-879a-5d3417cfd831,Bagno curato,"Bagno davvero pulito, doccia brillante e prodotti ben disposti.",Housekeeping,positivo
+662234e1-c0b5-4af0-9989-be049effae61,Colazione abbondante,"Buffet ricco e vario, prodotti freschi e buon caffè.",Food & Beverage,positivo
+79c0267a-dc8c-4db7-b8c7-fdc42ffcc9ab,Servizio lento,Attesa troppo lunga al ristorante e personale distratto.,Food & Beverage,negativo
+52ff0ae8-b4a1-4882-b694-f6aadf6eda38,Check-in veloce,"Arrivo rapido, check-in in pochi minuti e staff cordiale.",Reception,positivo
+20cfc808-715f-4bdd-9800-2527f4bc7a77,Problemi prenotazione,Errore nella prenotazione e tempi lunghi per sistemare tutto.,Reception,negativo
+5373566d-642e-48c5-bf96-d3a86f3edbcd,Poca disponibilità,Personale poco cortese e difficile ottenere informazioni.,Reception,negativo
+8473be8a-e723-472b-aa18-9035fe7ae8be,Bagno trascurato,"Doccia incrostata e cattivo odore, bagno non pulito come dovrebbe.",Housekeeping,negativo
+8c51601e-3f78-4373-9978-c31bc492bad0,Poca disponibilità,Personale poco cortese e difficile ottenere informazioni.,Reception,negativo
+8a72d944-985f-4b25-9719-179c98a86a37,Accoglienza ottima,"Personale disponibile, spiegazioni chiare e assistenza immediata.",Reception,positivo
+732d166d-6cf9-47f3-90be-6a0d5f98e73c,Pulizie impeccabili,"Pulizia accurata ogni giorno, lenzuola pulite e stanza ordinata.",Housekeeping,positivo
+c5101b3c-df88-48d1-859f-bd8df68a6d4d,Servizio lento,Attesa troppo lunga al ristorante e personale distratto.,Food & Beverage,negativo
+ec30af95-5865-41dd-89e2-18fa8da86940,Cibo freddo,"Piatti arrivati tiepidi e buffet poco rifornito. Inoltre, doccia incrostata e cattivo odore, bagno non pulito come dovrebbe.",Food & Beverage,negativo
+6b8702c9-b4fd-4e8f-b799-e2808a655163,Camera sporca,"Polvere sui mobili e lenzuola macchiate, pulizia insufficiente.",Housekeeping,negativo
+c4dae94f-5173-4d5f-bda2-5b3b354d5bdd,Servizio lento,Attesa troppo lunga al ristorante e personale distratto.,Food & Beverage,negativo
+bf27d941-b512-4a23-9c64-64a26a416939,Prodotti di qualità,"Colazione con dolci buoni e scelta ampia, tutto molto curato. Inoltre, doccia incrostata e cattivo odore, bagno non pulito come dovrebbe.",Food & Beverage,positivo
+4196829d-9eeb-4337-98e1-56296f675587,Igiene scarsa,Ho trovato capelli nel bagno e cestino non svuotato.,Housekeeping,negativo
+f2da8aee-1b5a-4d70-b704-076e645a3c16,Poca disponibilità,Personale poco cortese e difficile ottenere informazioni.,Reception,negativo
+b494c1db-73fd-4107-ba04-66e2a59fde0f,Bagno curato,"Bagno davvero pulito, doccia brillante e prodotti ben disposti.",Housekeeping,positivo
+b1632fe8-49b4-47a4-a05a-7aa08b295669,Check-in lento,Attesa lunga per le chiavi e poca organizzazione al banco.,Reception,negativo
+ea442516-a52d-49b5-ad0a-54dd53f25eec,Poca disponibilità,Personale poco cortese e difficile ottenere informazioni.,Reception,negativo
+cd916ae2-6cfc-4ee5-a850-eade41e092e0,Camera sporca,"Polvere sui mobili e lenzuola macchiate, pulizia insufficiente.",Housekeeping,negativo
+d56747f9-fc36-4309-915b-fe6b090f4de3,Igiene scarsa,Ho trovato capelli nel bagno e cestino non svuotato.,Housekeeping,negativo
+118ade19-35ef-4194-9b51-276cff38415b,Accoglienza ottima,"Personale disponibile, spiegazioni chiare e assistenza immediata.",Reception,positivo
+25eca1d8-8db8-4898-a6b8-29292b1c36fe,Poca disponibilità,Personale poco cortese e difficile ottenere informazioni.,Reception,negativo
+a4d82073-d87a-4cd9-bef3-9d144525fb18,Poca disponibilità,Personale poco cortese e difficile ottenere informazioni.,Reception,negativo
+2902695f-ef5e-41ff-89fa-34e784cccfd6,Pulizie impeccabili,"Pulizia accurata ogni giorno, lenzuola pulite e stanza ordinata. Inoltre, colazione con dolci buoni e scelta ampia, tutto molto curato.",Housekeeping,positivo
+177a2346-a29d-455e-9efa-42a87233fb6a,Igiene scarsa,Ho trovato capelli nel bagno e cestino non svuotato.,Housekeeping,negativo
+cca05966-1360-458e-b2e3-1b0836e6cc42,Check-in veloce,"Arrivo rapido, check-in in pochi minuti e staff cordiale. Inoltre, doccia incrostata e cattivo odore, bagno non pulito come dovrebbe.",Reception,positivo
+93374dd5-363a-4b88-b80c-fc6ab7ca1051,Camera perfetta,"Camera pulita e profumata, bagno in ordine, asciugamani freschi.",Housekeeping,positivo
+6b483daf-ed70-42e3-84ff-827e0d48c96a,Bagno trascurato,"Doccia incrostata e cattivo odore, bagno non pulito come dovrebbe.",Housekeeping,negativo
+9b1d1532-9d76-480b-b882-bb060ac62492,Servizio lento,Attesa troppo lunga al ristorante e personale distratto.,Food & Beverage,negativo
+273a9ace-217a-45e7-bffe-20ec0951d144,Igiene scarsa,"Ho trovato capelli nel bagno e cestino non svuotato. Inoltre, piatti arrivati tiepidi e buffet poco rifornito.",Housekeeping,negativo
+3ba77685-4f08-4997-a850-368a5ac02e8e,Camera sporca,"Polvere sui mobili e lenzuola macchiate, pulizia insufficiente.",Housekeeping,negativo
+f915ba83-bdd5-4e74-89a2-0efbf3fb2196,Camera sporca,"Polvere sui mobili e lenzuola macchiate, pulizia insufficiente.",Housekeeping,negativo
+3fc47f6e-260b-426f-8abc-814f0fc87c25,Check-in lento,Attesa lunga per le chiavi e poca organizzazione al banco.,Reception,negativo
+8ecc6039-7075-4f3e-a788-1fb34146d382,Pulizie impeccabili,"Pulizia accurata ogni giorno, lenzuola pulite e stanza ordinata. Inoltre, arrivo rapido, check-in in pochi minuti e staff cordiale.",Housekeeping,positivo
+f672dcaf-dab8-4215-b8b8-b24fdaa31a36,Check-in veloce,"Arrivo rapido, check-in in pochi minuti e staff cordiale.",Reception,positivo
+c2ba582f-4032-493a-b025-925e5e95356a,Bagno curato,"Bagno davvero pulito, doccia brillante e prodotti ben disposti.",Housekeeping,positivo
+eeb0068f-20b3-44ba-a80d-dcc7da2d6a60,Pulizie impeccabili,"Pulizia accurata ogni giorno, lenzuola pulite e stanza ordinata.",Housekeeping,positivo
+78825f13-bb4d-4a73-8629-d5f41ea6bae2,Ristorante ottimo,Piatti ben preparati e servizio attento in sala.,Food & Beverage,positivo
+fb21e2b7-e94a-4155-8b2a-3ca5d9a017b6,Bagno curato,"Bagno davvero pulito, doccia brillante e prodotti ben disposti.",Housekeeping,positivo
+fb80379e-7175-4063-ac72-2903157ef35c,Bagno curato,"Bagno davvero pulito, doccia brillante e prodotti ben disposti.",Housekeeping,positivo
+cde7db15-c13e-4120-920e-8d6163f6a2e1,Pulizie impeccabili,"Pulizia accurata ogni giorno, lenzuola pulite e stanza ordinata.",Housekeeping,positivo
+2c2f03e3-a961-4788-8c97-67f4eb78db1e,Camera sporca,"Polvere sui mobili e lenzuola macchiate, pulizia insufficiente.",Housekeeping,negativo
+3997af7d-b450-41b4-8f69-61121b07be28,Bagno curato,"Bagno davvero pulito, doccia brillante e prodotti ben disposti.",Housekeeping,positivo
+8caecf11-a391-412b-8afd-86203deee507,Pulizie impeccabili,"Pulizia accurata ogni giorno, lenzuola pulite e stanza ordinata.",Housekeeping,positivo
+09f90352-c227-43e6-85d6-28eb80f6b70a,Accoglienza ottima,"Personale disponibile, spiegazioni chiare e assistenza immediata.",Reception,positivo
+a1e3fd9c-1383-41c8-b9d9-c8336aa7fcc1,Prodotti di qualità,"Colazione con dolci buoni e scelta ampia, tutto molto curato.",Food & Beverage,positivo
+1cdbba3d-26bb-493f-a322-60697c210350,Cibo freddo,Piatti arrivati tiepidi e buffet poco rifornito.,Food & Beverage,negativo
+0d3602af-604f-4174-95d8-8a670df62557,Pulizie impeccabili,"Pulizia accurata ogni giorno, lenzuola pulite e stanza ordinata.",Housekeeping,positivo
+1a0ea15a-e6a5-4ce8-bea2-c7c918636403,Accoglienza ottima,"Personale disponibile, spiegazioni chiare e assistenza immediata.",Reception,positivo
+8166bda9-87ef-464e-aae3-31a40269bea1,Check-in veloce,"Arrivo rapido, check-in in pochi minuti e staff cordiale.",Reception,positivo
+e83e933a-a55b-486f-a16e-be3aa0c6c57e,Camera perfetta,"Camera pulita e profumata, bagno in ordine, asciugamani freschi.",Housekeeping,positivo
+a2a6924b-f1da-4571-809b-2e92c992e906,Cibo freddo,Piatti arrivati tiepidi e buffet poco rifornito.,Food & Beverage,negativo
+2f232917-9a86-4368-8503-ad133c746d32,Cibo freddo,Piatti arrivati tiepidi e buffet poco rifornito.,Food & Beverage,negativo
+17ec11fa-070d-4a7d-8a44-5684a51fa371,Supporto perfetto,"Alla reception hanno risolto subito una richiesta senza problemi. Inoltre, doccia incrostata e cattivo odore, bagno non pulito come dovrebbe.",Reception,positivo
+fddd85cf-5993-4d2c-a159-8d3bc5015fd2,Bagno trascurato,"Doccia incrostata e cattivo odore, bagno non pulito come dovrebbe.",Housekeeping,negativo
+b75585af-3637-42b4-9259-33a6865c6b09,Poca disponibilità,"Personale poco cortese e difficile ottenere informazioni. Inoltre, attesa troppo lunga al ristorante e personale distratto.",Reception,negativo
+a69c1f03-20dc-4f9b-817a-7a24ae365864,Check-in lento,Attesa lunga per le chiavi e poca organizzazione al banco.,Reception,negativo
+8fa69386-159c-4a4e-b2d8-16b03b7cc0ac,Check-in veloce,"Arrivo rapido, check-in in pochi minuti e staff cordiale.",Reception,positivo
+f7582a55-f8bd-41e4-adb4-05f245f80e01,Camera sporca,"Polvere sui mobili e lenzuola macchiate, pulizia insufficiente.",Housekeeping,negativo
+aaf21b0c-8c4f-4ef9-99c4-3fb78a5adeb4,Supporto perfetto,"Alla reception hanno risolto subito una richiesta senza problemi. Inoltre, piatti ben preparati e servizio attento in sala.",Reception,positivo
+0851fbd0-5667-4e5c-952d-68121437bf20,Poca disponibilità,"Personale poco cortese e difficile ottenere informazioni. Inoltre, piatti arrivati tiepidi e buffet poco rifornito.",Reception,negativo
+d00af9af-4b26-4995-b36c-e431393f84fe,Camera perfetta,"Camera pulita e profumata, bagno in ordine, asciugamani freschi.",Housekeeping,positivo
+0ee68f50-2e37-41c2-b8f7-e88aec241fb8,Pulizie impeccabili,"Pulizia accurata ogni giorno, lenzuola pulite e stanza ordinata.",Housekeeping,positivo
+8b254dfa-c464-4e02-abfe-e097550fb701,Accoglienza ottima,"Personale disponibile, spiegazioni chiare e assistenza immediata.",Reception,positivo
+36f9f80e-6695-449e-91c6-770a550c4f27,Supporto perfetto,Alla reception hanno risolto subito una richiesta senza problemi.,Reception,positivo
+a8a2739d-d673-42df-9a56-b47d112a1eb8,Colazione scarsa,"Poca scelta e prodotti non freschi, esperienza deludente.",Food & Beverage,negativo
+8a6bd0d6-d761-4368-a1e9-4d1b525d15bc,Cibo freddo,Piatti arrivati tiepidi e buffet poco rifornito.,Food & Beverage,negativo
+353388af-b5a5-4b93-8896-198ea3895d30,Bagno curato,"Bagno davvero pulito, doccia brillante e prodotti ben disposti.",Housekeeping,positivo
+9b31198f-b545-44a8-bba8-d52d77a57c5a,Bagno curato,"Bagno davvero pulito, doccia brillante e prodotti ben disposti.",Housekeeping,positivo
+dce2d6b5-7590-4b55-bc3f-5d481260bd24,Bagno curato,"Bagno davvero pulito, doccia brillante e prodotti ben disposti.",Housekeeping,positivo
+b64c6c3d-2200-440f-bbbb-9948c13c762e,Problemi prenotazione,Errore nella prenotazione e tempi lunghi per sistemare tutto.,Reception,negativo
+36057762-e470-4e97-95fa-2aacc38d2636,Poca disponibilità,Personale poco cortese e difficile ottenere informazioni.,Reception,negativo
+f035b565-8472-4dc1-bff2-4e3f2f8b627a,Colazione abbondante,"Buffet ricco e vario, prodotti freschi e buon caffè.",Food & Beverage,positivo
+714b564c-39fc-45e2-b7b8-8449dac5fb0e,Prodotti di qualità,"Colazione con dolci buoni e scelta ampia, tutto molto curato. Inoltre, errore nella prenotazione e tempi lunghi per sistemare tutto.",Food & Beverage,positivo
+48e2306d-082c-4a73-b949-76e31a3d6308,Cibo freddo,Piatti arrivati tiepidi e buffet poco rifornito.,Food & Beverage,negativo
+ad7aedac-a6c4-41ef-af8f-5d99e5dc3a75,Ristorante ottimo,Piatti ben preparati e servizio attento in sala.,Food & Beverage,positivo
+9efd8d43-a311-4caf-9c8b-dd1fc3563694,Poca disponibilità,Personale poco cortese e difficile ottenere informazioni.,Reception,negativo
+be743bf9-4270-4f26-9f54-3e908190e8bc,Pulizie impeccabili,"Pulizia accurata ogni giorno, lenzuola pulite e stanza ordinata.",Housekeeping,positivo
+50a00e95-701d-41d8-88d3-39b3eb4c83c6,Camera perfetta,"Camera pulita e profumata, bagno in ordine, asciugamani freschi.",Housekeeping,positivo
+55cead03-212b-44ba-890e-3fd2a7b2a8e8,Pulizie impeccabili,"Pulizia accurata ogni giorno, lenzuola pulite e stanza ordinata.",Housekeeping,positivo
+f454dc93-ac73-458e-8dbc-c080ee8576cb,Pulizie impeccabili,"Pulizia accurata ogni giorno, lenzuola pulite e stanza ordinata.",Housekeeping,positivo
+55038d1b-ac57-4e24-8d33-e3035730b77a,Pulizie impeccabili,"Pulizia accurata ogni giorno, lenzuola pulite e stanza ordinata.",Housekeeping,positivo
+ff5edafa-4d00-4f54-a1fb-578757bc0c2b,Camera sporca,"Polvere sui mobili e lenzuola macchiate, pulizia insufficiente.",Housekeeping,negativo
+8d1b117f-2cb0-4978-b641-a42ef66c8801,Ristorante ottimo,"Piatti ben preparati e servizio attento in sala. Inoltre, ho trovato capelli nel bagno e cestino non svuotato.",Food & Beverage,positivo
+5ea7fe71-865f-4250-89c5-e7367cfc23a7,Poca disponibilità,Personale poco cortese e difficile ottenere informazioni.,Reception,negativo
+f9755762-0503-4f70-a263-0c4d40284b6a,Accoglienza ottima,"Personale disponibile, spiegazioni chiare e assistenza immediata. Inoltre, colazione con dolci buoni e scelta ampia, tutto molto curato.",Reception,positivo
+afd3a2db-53cd-479e-859b-06f75838f322,Check-in lento,Attesa lunga per le chiavi e poca organizzazione al banco.,Reception,negativo
+16aaa265-42b4-42b3-ace2-8a2ff057a4a3,Pulizie impeccabili,"Pulizia accurata ogni giorno, lenzuola pulite e stanza ordinata.",Housekeeping,positivo
+0388daab-6f74-414d-a7df-e7c9b15ed3dc,Ristorante ottimo,Piatti ben preparati e servizio attento in sala.,Food & Beverage,positivo
+8fd427e4-6e10-40d0-acfe-59950cb694ba,Colazione scarsa,"Poca scelta e prodotti non freschi, esperienza deludente.",Food & Beverage,negativo
+53dda680-3b58-475f-a277-bf5d343271bd,Bagno curato,"Bagno davvero pulito, doccia brillante e prodotti ben disposti.",Housekeeping,positivo
+667b7cb9-e347-4d55-8601-a9585bc0529d,Ristorante ottimo,Piatti ben preparati e servizio attento in sala.,Food & Beverage,positivo
+9975b710-7747-44c1-9ba4-0d14c9852d98,Colazione abbondante,"Buffet ricco e vario, prodotti freschi e buon caffè. Inoltre, arrivo rapido, check-in in pochi minuti e staff cordiale.",Food & Beverage,positivo
+9edf6ae6-ebbc-4514-bb3e-87267339657f,Prodotti di qualità,"Colazione con dolci buoni e scelta ampia, tutto molto curato. Inoltre, personale poco cortese e difficile ottenere informazioni.",Food & Beverage,positivo
+38c7bed8-db71-4907-a496-09f6255a6781,Servizio lento,Attesa troppo lunga al ristorante e personale distratto.,Food & Beverage,negativo
+ac8b2e8c-89e9-48f0-a450-59e94240f82d,Servizio lento,Attesa troppo lunga al ristorante e personale distratto.,Food & Beverage,negativo
+a9265600-ca66-4508-8a02-814a73e03a2a,Accoglienza ottima,"Personale disponibile, spiegazioni chiare e assistenza immediata.",Reception,positivo
+e5f2e7a8-67f6-455a-a222-36fae2718c2a,Poca disponibilità,"Personale poco cortese e difficile ottenere informazioni. Inoltre, doccia incrostata e cattivo odore, bagno non pulito come dovrebbe.",Reception,negativo
+66a22383-55ea-485b-ba13-8aff21977cae,Check-in veloce,"Arrivo rapido, check-in in pochi minuti e staff cordiale.",Reception,positivo
+18fb20f5-1473-4038-a0bd-0a38b8a2625d,Supporto perfetto,Alla reception hanno risolto subito una richiesta senza problemi.,Reception,positivo
+b81cb30c-1f15-4aa8-8533-c3ae941daf99,Bagno trascurato,"Doccia incrostata e cattivo odore, bagno non pulito come dovrebbe.",Housekeeping,negativo
+3ce6c541-906b-4545-a9eb-b970d2e70979,Ristorante ottimo,Piatti ben preparati e servizio attento in sala.,Food & Beverage,positivo
+e38c2747-fba5-4a9e-8786-9d424a3a493f,Ristorante ottimo,Piatti ben preparati e servizio attento in sala.,Food & Beverage,positivo
+4fba8809-5bf6-4e25-87e1-5821a82688db,Colazione abbondante,"Buffet ricco e vario, prodotti freschi e buon caffè.",Food & Beverage,positivo
+8c4ac7de-c0f8-4de4-8c64-9c831939b5f7,Supporto perfetto,Alla reception hanno risolto subito una richiesta senza problemi.,Reception,positivo
+eff37837-8415-4d56-aae3-57c1e2f5ab67,Bagno curato,"Bagno davvero pulito, doccia brillante e prodotti ben disposti.",Housekeeping,positivo
+30452813-44c3-42e6-9f5f-5c6f4306002f,Accoglienza ottima,"Personale disponibile, spiegazioni chiare e assistenza immediata.",Reception,positivo
+7813f1fe-36b1-4765-9447-5950fee8ee65,Problemi prenotazione,Errore nella prenotazione e tempi lunghi per sistemare tutto.,Reception,negativo
+eb4e21be-c5d6-420c-b797-2fcccbe1465f,Prodotti di qualità,"Colazione con dolci buoni e scelta ampia, tutto molto curato.",Food & Beverage,positivo
+dc1d91c1-85ad-4b30-b4dd-cbcb545200d0,Camera sporca,"Polvere sui mobili e lenzuola macchiate, pulizia insufficiente.",Housekeeping,negativo
+a5241ece-c0df-47b6-8188-208cf5c24329,Problemi prenotazione,Errore nella prenotazione e tempi lunghi per sistemare tutto.,Reception,negativo
+1177c8bf-2f25-49f1-9c98-1aaca83f365f,Ristorante ottimo,"Piatti ben preparati e servizio attento in sala. Inoltre, doccia incrostata e cattivo odore, bagno non pulito come dovrebbe.",Food & Beverage,positivo
+5b97fc2c-cc14-4901-8a51-db8b6e0b70b5,Colazione scarsa,"Poca scelta e prodotti non freschi, esperienza deludente.",Food & Beverage,negativo
+0be61ca6-7918-47a9-9001-79eeef5a6055,Igiene scarsa,Ho trovato capelli nel bagno e cestino non svuotato.,Housekeeping,negativo
+094c357d-01ba-43de-98fb-affa87850eb4,Supporto perfetto,Alla reception hanno risolto subito una richiesta senza problemi.,Reception,positivo
+448d344b-b600-46fd-a08d-87e5ab334521,Prodotti di qualità,"Colazione con dolci buoni e scelta ampia, tutto molto curato.",Food & Beverage,positivo
+97be7d8a-64f5-4051-881f-110e5a7d8a37,Colazione scarsa,"Poca scelta e prodotti non freschi, esperienza deludente.",Food & Beverage,negativo
+65d75693-4f7d-4bfa-9861-6637e6f3d66f,Pulizie impeccabili,"Pulizia accurata ogni giorno, lenzuola pulite e stanza ordinata.",Housekeeping,positivo
+f17b599a-1cef-4cee-927b-4080578cf140,Check-in veloce,"Arrivo rapido, check-in in pochi minuti e staff cordiale.",Reception,positivo
+9450662b-38df-4707-895c-122cba80355d,Pulizie impeccabili,"Pulizia accurata ogni giorno, lenzuola pulite e stanza ordinata.",Housekeeping,positivo
+4062344d-fbf9-404d-8496-f58926100eee,Bagno curato,"Bagno davvero pulito, doccia brillante e prodotti ben disposti.",Housekeeping,positivo
+5b498e2e-9114-4ce2-8dcb-e1f120f839fd,Prodotti di qualità,"Colazione con dolci buoni e scelta ampia, tutto molto curato.",Food & Beverage,positivo
+5a40d6ff-cfda-41e1-ba0b-f0e4e5461ed6,Bagno curato,"Bagno davvero pulito, doccia brillante e prodotti ben disposti.",Housekeeping,positivo
+97f09953-c8b7-4244-8cfd-e109321d18bd,Camera sporca,"Polvere sui mobili e lenzuola macchiate, pulizia insufficiente.",Housekeeping,negativo
+07144443-8f6f-4a09-927b-0250f05c85af,Ristorante ottimo,Piatti ben preparati e servizio attento in sala.,Food & Beverage,positivo
+f6f6a1b7-10d1-4efe-acc8-b8413211c34f,Colazione scarsa,"Poca scelta e prodotti non freschi, esperienza deludente.",Food & Beverage,negativo
+9e62dbbe-12bd-4653-ab74-4057544f46d1,Check-in lento,Attesa lunga per le chiavi e poca organizzazione al banco.,Reception,negativo
+cd3edabd-d4d0-4f35-9803-6a26a84e2cb5,Cibo freddo,Piatti arrivati tiepidi e buffet poco rifornito.,Food & Beverage,negativo
+819277a9-05ef-4562-8d24-4fccf028a579,Check-in lento,Attesa lunga per le chiavi e poca organizzazione al banco.,Reception,negativo
+182dcc56-49c3-4e78-ba35-f54d24b8bd96,Ristorante ottimo,"Piatti ben preparati e servizio attento in sala. Inoltre, personale poco cortese e difficile ottenere informazioni.",Food & Beverage,positivo
+aaecb073-9a4e-44ea-affb-7e7210605662,Pulizie impeccabili,"Pulizia accurata ogni giorno, lenzuola pulite e stanza ordinata. Inoltre, errore nella prenotazione e tempi lunghi per sistemare tutto.",Housekeeping,positivo
+7d53ccc8-af1d-4f71-996f-03d3839dd47a,Ristorante ottimo,"Piatti ben preparati e servizio attento in sala. Inoltre, doccia incrostata e cattivo odore, bagno non pulito come dovrebbe.",Food & Beverage,positivo
+3ca3d6d0-de28-4e24-98a8-c916f875b10a,Camera sporca,"Polvere sui mobili e lenzuola macchiate, pulizia insufficiente.",Housekeeping,negativo
+84e8a820-015a-4ff7-a87e-8b98f8259a83,Accoglienza ottima,"Personale disponibile, spiegazioni chiare e assistenza immediata.",Reception,positivo
+b3834d11-6af6-417c-a827-176bfffa2171,Check-in veloce,"Arrivo rapido, check-in in pochi minuti e staff cordiale.",Reception,positivo
+392c6c5c-5d42-41ea-b07a-fea860102d1f,Camera sporca,"Polvere sui mobili e lenzuola macchiate, pulizia insufficiente.",Housekeeping,negativo
+c83ec811-8d5b-4695-9267-b51b0f60d80a,Poca disponibilità,Personale poco cortese e difficile ottenere informazioni.,Reception,negativo
+8c80f3b6-d6b2-4b29-bbce-46b808283431,Cibo freddo,Piatti arrivati tiepidi e buffet poco rifornito.,Food & Beverage,negativo
+d1151a42-8b9f-43f1-8ff3-e13e69eb1aba,Pulizie impeccabili,"Pulizia accurata ogni giorno, lenzuola pulite e stanza ordinata.",Housekeeping,positivo
+64018750-6319-427d-9824-b4835a651656,Camera sporca,"Polvere sui mobili e lenzuola macchiate, pulizia insufficiente.",Housekeeping,negativo
+3f6dd95f-1b55-4c9b-a61a-6e9b210499db,Camera sporca,"Polvere sui mobili e lenzuola macchiate, pulizia insufficiente. Inoltre, poca scelta e prodotti non freschi, esperienza deludente.",Housekeeping,negativo
+17467630-bad8-4d69-a271-d969d7838014,Igiene scarsa,Ho trovato capelli nel bagno e cestino non svuotato.,Housekeeping,negativo
+f4f2191b-b055-4680-b694-f85ebffb37e9,Prodotti di qualità,"Colazione con dolci buoni e scelta ampia, tutto molto curato.",Food & Beverage,positivo
+f219d059-0085-46ad-9074-cb84c64febc5,Supporto perfetto,Alla reception hanno risolto subito una richiesta senza problemi.,Reception,positivo
+48e9f465-eaed-4c13-a6cd-4d971d6899fb,Colazione scarsa,"Poca scelta e prodotti non freschi, esperienza deludente.",Food & Beverage,negativo
+5f66a17b-2968-47b9-ad76-b4362ef72a6b,Camera sporca,"Polvere sui mobili e lenzuola macchiate, pulizia insufficiente.",Housekeeping,negativo
+336e8923-c3c7-4d9d-bee1-4cc12eaeb6ba,Ristorante ottimo,Piatti ben preparati e servizio attento in sala.,Food & Beverage,positivo
+7d513d4f-bed4-47fb-98d8-593d39f9ac0c,Bagno trascurato,"Doccia incrostata e cattivo odore, bagno non pulito come dovrebbe.",Housekeeping,negativo
+51458eb6-4a73-4d4d-8820-41b8dcba729d,Camera sporca,"Polvere sui mobili e lenzuola macchiate, pulizia insufficiente.",Housekeeping,negativo
+1bff34be-6bed-4474-a610-b7230a4be11e,Prodotti di qualità,"Colazione con dolci buoni e scelta ampia, tutto molto curato.",Food & Beverage,positivo
+f663d8bd-1301-490c-936d-f4914cf8d640,Check-in veloce,"Arrivo rapido, check-in in pochi minuti e staff cordiale.",Reception,positivo
+3ff91569-2f0f-4ce7-8f72-58ba353a9f67,Supporto perfetto,Alla reception hanno risolto subito una richiesta senza problemi.,Reception,positivo
+f9e52570-a158-44e4-925a-86e553e033a6,Servizio lento,Attesa troppo lunga al ristorante e personale distratto.,Food & Beverage,negativo
+35888bd3-9002-4b05-865a-8e3820c33bec,Bagno curato,"Bagno davvero pulito, doccia brillante e prodotti ben disposti.",Housekeeping,positivo
+fa5ed06b-14ac-49ed-87c0-6f1093cfb151,Accoglienza ottima,"Personale disponibile, spiegazioni chiare e assistenza immediata.",Reception,positivo
+91b7788d-804e-4361-8971-3d17905deac9,Pulizie impeccabili,"Pulizia accurata ogni giorno, lenzuola pulite e stanza ordinata.",Housekeeping,positivo
+272f8dc7-935e-47cc-ab97-c077c40aa4d0,Servizio lento,Attesa troppo lunga al ristorante e personale distratto.,Food & Beverage,negativo
+fc978077-7d6f-4184-8baf-95b230cbe877,Pulizie impeccabili,"Pulizia accurata ogni giorno, lenzuola pulite e stanza ordinata.",Housekeeping,positivo
+3145b597-0483-4bd0-85e7-245c6115aa50,Bagno trascurato,"Doccia incrostata e cattivo odore, bagno non pulito come dovrebbe.",Housekeeping,negativo
+e0275075-23f2-4cc2-a189-9e1af4b0855e,Problemi prenotazione,Errore nella prenotazione e tempi lunghi per sistemare tutto.,Reception,negativo
+ee63b8c7-181f-4b58-8016-879eeecbcc18,Check-in lento,Attesa lunga per le chiavi e poca organizzazione al banco.,Reception,negativo
+1e26034b-2683-40d6-a85f-f504dba46c23,Poca disponibilità,Personale poco cortese e difficile ottenere informazioni.,Reception,negativo
+f7faf638-6f9f-4850-aac5-452a39f212c3,Camera sporca,"Polvere sui mobili e lenzuola macchiate, pulizia insufficiente.",Housekeeping,negativo
+3f357cc9-63a6-4b07-ad63-b3701ebf2e3e,Bagno trascurato,"Doccia incrostata e cattivo odore, bagno non pulito come dovrebbe. Inoltre, piatti arrivati tiepidi e buffet poco rifornito.",Housekeeping,negativo
+d9859df9-1779-4d26-8b6b-a01144ac29c6,Check-in lento,Attesa lunga per le chiavi e poca organizzazione al banco.,Reception,negativo
+c85cfed0-c4fd-48f7-b01b-201c0498689b,Check-in lento,Attesa lunga per le chiavi e poca organizzazione al banco.,Reception,negativo
+34f59791-c134-44c3-8e27-53759bb414d5,Problemi prenotazione,Errore nella prenotazione e tempi lunghi per sistemare tutto.,Reception,negativo
+1893391a-3e64-43b4-9e1b-39e056a1a335,Bagno curato,"Bagno davvero pulito, doccia brillante e prodotti ben disposti.",Housekeeping,positivo
+3fa4c70f-c0ee-4989-8cf5-a29406909507,Check-in veloce,"Arrivo rapido, check-in in pochi minuti e staff cordiale.",Reception,positivo
+957acf2b-9a2b-4799-b95f-125b3f412f25,Colazione scarsa,"Poca scelta e prodotti non freschi, esperienza deludente.",Food & Beverage,negativo
+6fd1b4f9-4184-4a9d-b40d-8edab1934055,Bagno trascurato,"Doccia incrostata e cattivo odore, bagno non pulito come dovrebbe.",Housekeeping,negativo
+610119b9-4557-4c08-8617-5b29a0ccb2a8,Prodotti di qualità,"Colazione con dolci buoni e scelta ampia, tutto molto curato.",Food & Beverage,positivo
+be6fb23f-9eab-459f-ba3c-461c7c68a130,Problemi prenotazione,Errore nella prenotazione e tempi lunghi per sistemare tutto.,Reception,negativo
+292db146-7fef-4b85-b4c6-861bd66a0224,Bagno curato,"Bagno davvero pulito, doccia brillante e prodotti ben disposti.",Housekeeping,positivo
+6d941d49-1172-4ba7-a5fb-9f44ecaa16c8,Check-in lento,Attesa lunga per le chiavi e poca organizzazione al banco.,Reception,negativo
+77af70c5-dc31-4d2b-a43b-afd545594f14,Pulizie impeccabili,"Pulizia accurata ogni giorno, lenzuola pulite e stanza ordinata.",Housekeeping,positivo
+48c51368-ebe0-4c46-8b1b-0d0d2e4fd545,Ristorante ottimo,Piatti ben preparati e servizio attento in sala.,Food & Beverage,positivo
+a7991134-5e02-4a24-a277-70384e6a31b4,Colazione scarsa,"Poca scelta e prodotti non freschi, esperienza deludente.",Food & Beverage,negativo
+bf0f759e-6ffa-4179-8131-3b328f7a55bb,Check-in lento,Attesa lunga per le chiavi e poca organizzazione al banco.,Reception,negativo
+210b7f8f-008e-4070-a92c-99f0fdcb3687,Camera sporca,"Polvere sui mobili e lenzuola macchiate, pulizia insufficiente.",Housekeeping,negativo
+34e948d6-e497-4d7b-a8ce-45b7c41079cc,Supporto perfetto,Alla reception hanno risolto subito una richiesta senza problemi.,Reception,positivo
+2b7d8941-ece5-417b-a963-f19b0c960aed,Poca disponibilità,"Personale poco cortese e difficile ottenere informazioni. Inoltre, poca scelta e prodotti non freschi, esperienza deludente.",Reception,negativo
+32358ac4-f625-414b-8a99-d83a450055fb,Ristorante ottimo,Piatti ben preparati e servizio attento in sala.,Food & Beverage,positivo
+dee22a75-0a92-4806-af34-e5309cc7d011,Camera perfetta,"Camera pulita e profumata, bagno in ordine, asciugamani freschi.",Housekeeping,positivo
+a08ef731-9b78-458f-a98b-10cf9a006dfd,Accoglienza ottima,"Personale disponibile, spiegazioni chiare e assistenza immediata.",Reception,positivo
+c8de3f71-c703-4829-8790-32d3810b1780,Poca disponibilità,Personale poco cortese e difficile ottenere informazioni.,Reception,negativo
+76b9fc1d-8d28-445e-81d2-97b59fbd2b52,Pulizie impeccabili,"Pulizia accurata ogni giorno, lenzuola pulite e stanza ordinata.",Housekeeping,positivo
+0ddc9cc5-f1a1-4b8e-8514-f79bd618da57,Servizio lento,Attesa troppo lunga al ristorante e personale distratto.,Food & Beverage,negativo
+24e0068a-cf97-409e-ae0b-026fb6ce57c5,Check-in veloce,"Arrivo rapido, check-in in pochi minuti e staff cordiale.",Reception,positivo
+31b7066f-21cc-4bb6-a021-60cbfb2d0479,Ristorante ottimo,Piatti ben preparati e servizio attento in sala.,Food & Beverage,positivo
+d7db9697-74af-462f-9090-8e0936b5b989,Colazione scarsa,"Poca scelta e prodotti non freschi, esperienza deludente.",Food & Beverage,negativo
+82c1f603-f180-4f11-9c68-218112ff68f5,Colazione abbondante,"Buffet ricco e vario, prodotti freschi e buon caffè.",Food & Beverage,positivo
+a6a14bbb-4593-4ef3-ab1b-4e7c54531ba1,Bagno curato,"Bagno davvero pulito, doccia brillante e prodotti ben disposti.",Housekeeping,positivo
+fdcb3f62-4c09-4d27-a57f-d6412cccd6c3,Pulizie impeccabili,"Pulizia accurata ogni giorno, lenzuola pulite e stanza ordinata.",Housekeeping,positivo
+2ffcd54a-ab1e-43ae-aa31-a781ce13eac5,Igiene scarsa,Ho trovato capelli nel bagno e cestino non svuotato.,Housekeeping,negativo
+378aa614-96c3-4187-8eea-02ad6c29e83a,Camera sporca,"Polvere sui mobili e lenzuola macchiate, pulizia insufficiente.",Housekeeping,negativo
+24b6387d-fa98-49b9-86ed-b8b10faea551,Colazione scarsa,"Poca scelta e prodotti non freschi, esperienza deludente.",Food & Beverage,negativo
+806a4153-ff92-44e0-903f-968660bd3db7,Prodotti di qualità,"Colazione con dolci buoni e scelta ampia, tutto molto curato.",Food & Beverage,positivo
+08dd7a1e-d288-476f-bb0f-a8bced14d59e,Colazione abbondante,"Buffet ricco e vario, prodotti freschi e buon caffè.",Food & Beverage,positivo
+dfcb94aa-10ce-461b-ba10-e7dfd3c18e33,Servizio lento,"Attesa troppo lunga al ristorante e personale distratto. Inoltre, camera pulita e profumata, bagno in ordine, asciugamani freschi.",Food & Beverage,negativo
+58aa4270-465b-49ca-8e55-ecc9b79ab7c7,Servizio lento,Attesa troppo lunga al ristorante e personale distratto.,Food & Beverage,negativo
+073c30e5-3c9b-4401-bacf-82b1d000528a,Servizio lento,Attesa troppo lunga al ristorante e personale distratto.,Food & Beverage,negativo
+5c425e89-8823-4593-acc7-b5aa414ebb2b,Poca disponibilità,Personale poco cortese e difficile ottenere informazioni.,Reception,negativo
+ee0c635f-8a83-4056-a055-26336568b2a9,Supporto perfetto,Alla reception hanno risolto subito una richiesta senza problemi.,Reception,positivo
+3d0f7fbb-56b7-419c-b6d7-a86e2cdd8b67,Supporto perfetto,"Alla reception hanno risolto subito una richiesta senza problemi. Inoltre, piatti arrivati tiepidi e buffet poco rifornito.",Reception,positivo
+3a8b1ec0-8e25-4491-8b86-72f305a1ac30,Accoglienza ottima,"Personale disponibile, spiegazioni chiare e assistenza immediata.",Reception,positivo
+d455ec8b-fa9e-4ace-9394-62c7d4a2b54b,Poca disponibilità,Personale poco cortese e difficile ottenere informazioni.,Reception,negativo
+a890aa3b-143f-41a5-93b3-ed4b0743392e,Check-in lento,Attesa lunga per le chiavi e poca organizzazione al banco.,Reception,negativo
+99ea4350-6abe-4605-b94d-2c5bc9f0514f,Ristorante ottimo,Piatti ben preparati e servizio attento in sala.,Food & Beverage,positivo
+ad6c2768-cb43-468b-8311-3bb26816f363,Bagno trascurato,"Doccia incrostata e cattivo odore, bagno non pulito come dovrebbe.",Housekeeping,negativo
+78aa2d09-51e3-4d03-ba54-f44f4a921888,Pulizie impeccabili,"Pulizia accurata ogni giorno, lenzuola pulite e stanza ordinata.",Housekeeping,positivo
+6ce0038c-129b-4c5a-bd22-9320405e77fa,Colazione scarsa,"Poca scelta e prodotti non freschi, esperienza deludente.",Food & Beverage,negativo
+a0d31d69-2768-432e-b6b1-bf8eb8710e3e,Igiene scarsa,Ho trovato capelli nel bagno e cestino non svuotato.,Housekeeping,negativo
+a134d46a-bccf-4cf4-8ed6-43f13404fbc9,Pulizie impeccabili,"Pulizia accurata ogni giorno, lenzuola pulite e stanza ordinata.",Housekeeping,positivo
+4be7f0e9-4e37-49bc-acfe-c69b110c126b,Problemi prenotazione,Errore nella prenotazione e tempi lunghi per sistemare tutto.,Reception,negativo
+14cb7e46-cc57-460b-96ea-ec1c6ecc36a4,Igiene scarsa,Ho trovato capelli nel bagno e cestino non svuotato.,Housekeeping,negativo
+15765e87-c5bf-4927-ae37-c33de4749020,Bagno curato,"Bagno davvero pulito, doccia brillante e prodotti ben disposti.",Housekeeping,positivo
+fc0f67ab-ccbd-48fa-8dfa-996b945c9dbf,Bagno trascurato,"Doccia incrostata e cattivo odore, bagno non pulito come dovrebbe.",Housekeeping,negativo
+6d007410-b206-4348-859b-68db5a6ff72e,Cibo freddo,Piatti arrivati tiepidi e buffet poco rifornito.,Food & Beverage,negativo
+38aef037-3f22-4c92-a0ab-2763d843b057,Camera sporca,"Polvere sui mobili e lenzuola macchiate, pulizia insufficiente.",Housekeeping,negativo
+292b1d56-6c0c-4487-a801-ac3e4394bbd0,Cibo freddo,Piatti arrivati tiepidi e buffet poco rifornito.,Food & Beverage,negativo
+e38b92f1-1458-442c-9058-c8c10fbb72fd,Supporto perfetto,Alla reception hanno risolto subito una richiesta senza problemi.,Reception,positivo
+19d88483-c535-43d1-a475-3ca222189417,Check-in lento,Attesa lunga per le chiavi e poca organizzazione al banco.,Reception,negativo
+487319a1-3c11-4f6d-b180-c6402b4d9fd9,Poca disponibilità,Personale poco cortese e difficile ottenere informazioni.,Reception,negativo
+5f6b02a7-5930-4533-9e9d-528cfd948f32,Camera perfetta,"Camera pulita e profumata, bagno in ordine, asciugamani freschi.",Housekeeping,positivo
+02c48d8c-f5ff-4693-a6bb-8b939fe20ffc,Check-in lento,Attesa lunga per le chiavi e poca organizzazione al banco.,Reception,negativo
+611fcac1-d147-4a59-9f1c-cf77aa9a169d,Servizio lento,"Attesa troppo lunga al ristorante e personale distratto. Inoltre, bagno davvero pulito, doccia brillante e prodotti ben disposti.",Food & Beverage,negativo
+767cdb84-5fb7-450a-8643-5d624754767e,Poca disponibilità,Personale poco cortese e difficile ottenere informazioni.,Reception,negativo
+67dac6fe-2715-44b0-95bf-b035491ff8ee,Ristorante ottimo,Piatti ben preparati e servizio attento in sala.,Food & Beverage,positivo
+6804d864-71ca-4cce-85b1-2eaaa7bc2ac7,Accoglienza ottima,"Personale disponibile, spiegazioni chiare e assistenza immediata.",Reception,positivo
+2825feac-c79a-4dae-b2b7-5d223887e644,Servizio lento,Attesa troppo lunga al ristorante e personale distratto.,Food & Beverage,negativo
+f2f5607b-e9df-438b-8e3a-432693fafeb9,Servizio lento,Attesa troppo lunga al ristorante e personale distratto.,Food & Beverage,negativo
+ff8aca0a-887d-470b-8db8-187a4854e0de,Accoglienza ottima,"Personale disponibile, spiegazioni chiare e assistenza immediata.",Reception,positivo
+0e9adfb3-d77b-42fe-9f70-5b0507e26f8b,Igiene scarsa,Ho trovato capelli nel bagno e cestino non svuotato.,Housekeeping,negativo
+d0a9af45-af48-4786-b5bb-5bec72f52cb4,Prodotti di qualità,"Colazione con dolci buoni e scelta ampia, tutto molto curato.",Food & Beverage,positivo
+925801d3-c6a2-479c-92f5-e96daa7df6f7,Prodotti di qualità,"Colazione con dolci buoni e scelta ampia, tutto molto curato. Inoltre, alla reception hanno risolto subito una richiesta senza problemi.",Food & Beverage,positivo
+64a0d1b0-fcb7-4e95-ba01-f9cbc9686dc2,Colazione scarsa,"Poca scelta e prodotti non freschi, esperienza deludente.",Food & Beverage,negativo
+a2618c10-b5a4-4258-9d74-847b9e8543bb,Bagno curato,"Bagno davvero pulito, doccia brillante e prodotti ben disposti.",Housekeeping,positivo
+0798c2c3-6168-4313-aac5-a261445bb8e8,Camera perfetta,"Camera pulita e profumata, bagno in ordine, asciugamani freschi.",Housekeeping,positivo
+ff47c5e5-ce87-43ae-bfb0-fd3cd2ae4bf5,Accoglienza ottima,"Personale disponibile, spiegazioni chiare e assistenza immediata.",Reception,positivo
+34035bdd-f1f3-450e-bf32-9b84ac1b393c,Poca disponibilità,Personale poco cortese e difficile ottenere informazioni.,Reception,negativo
+6ed3524c-26fc-42f0-b672-c88497962d2f,Prodotti di qualità,"Colazione con dolci buoni e scelta ampia, tutto molto curato.",Food & Beverage,positivo
+ac5cd452-b4fe-4a42-a11c-76658bdddd44,Poca disponibilità,Personale poco cortese e difficile ottenere informazioni.,Reception,negativo
+d2f3e757-46b6-48a7-8ab5-e69aaf6abcc3,Igiene scarsa,Ho trovato capelli nel bagno e cestino non svuotato.,Housekeeping,negativo
+5c457466-101c-47e3-9ce4-d948f9b743a4,Poca disponibilità,Personale poco cortese e difficile ottenere informazioni.,Reception,negativo
+2683d439-d2ad-4dba-bdd6-4879c1ffdb9f,Igiene scarsa,Ho trovato capelli nel bagno e cestino non svuotato.,Housekeeping,negativo
+e40d42d8-5669-45a0-a1ba-87a0075a1f5e,Poca disponibilità,Personale poco cortese e difficile ottenere informazioni.,Reception,negativo
+cc56945c-0c1f-4cf4-b44b-bace21ddbabe,Cibo freddo,Piatti arrivati tiepidi e buffet poco rifornito.,Food & Beverage,negativo
+2c61c925-673f-4178-b6a8-8687cdc4d0dc,Cibo freddo,Piatti arrivati tiepidi e buffet poco rifornito.,Food & Beverage,negativo
+6377b0a7-c267-46c5-a56c-e8d456a8de3a,Cibo freddo,Piatti arrivati tiepidi e buffet poco rifornito.,Food & Beverage,negativo
+4a957564-0595-4382-a241-2ef15f410940,Camera sporca,"Polvere sui mobili e lenzuola macchiate, pulizia insufficiente.",Housekeeping,negativo
+d7bbff9e-1e90-4a6d-85ec-e6b78b6a6170,Ristorante ottimo,Piatti ben preparati e servizio attento in sala.,Food & Beverage,positivo
+7a592bfb-8ca6-42b6-96eb-c3855e89a12b,Servizio lento,Attesa troppo lunga al ristorante e personale distratto.,Food & Beverage,negativo
+3dfc1241-b17a-4a61-802e-d42e48535bf1,Igiene scarsa,Ho trovato capelli nel bagno e cestino non svuotato.,Housekeeping,negativo
+a13fbdf5-4da1-47e0-a8a6-ae26146af698,Bagno curato,"Bagno davvero pulito, doccia brillante e prodotti ben disposti.",Housekeeping,positivo
+0c8277e5-f7d5-4058-95e0-0ba17948ee44,Camera perfetta,"Camera pulita e profumata, bagno in ordine, asciugamani freschi.",Housekeeping,positivo
+fedb8c2b-e932-4631-89f2-dd629b969157,Prodotti di qualità,"Colazione con dolci buoni e scelta ampia, tutto molto curato.",Food & Beverage,positivo
+fa421139-2423-404e-91e4-ad4b13da8d19,Bagno trascurato,"Doccia incrostata e cattivo odore, bagno non pulito come dovrebbe.",Housekeeping,negativo
+6cfffcd2-b43a-4bfa-a785-e90ec82fe8bd,Camera perfetta,"Camera pulita e profumata, bagno in ordine, asciugamani freschi.",Housekeeping,positivo
+a97d2a4f-1a62-48b2-b766-30bb2977b66f,Igiene scarsa,Ho trovato capelli nel bagno e cestino non svuotato.,Housekeeping,negativo
+e961596f-6088-4f0f-9a3e-e9be5919fbcf,Poca disponibilità,Personale poco cortese e difficile ottenere informazioni.,Reception,negativo
+e0c8c461-c19f-45df-b8b0-e8729346f395,Problemi prenotazione,Errore nella prenotazione e tempi lunghi per sistemare tutto.,Reception,negativo
+b376aed7-7f65-4a7e-8aee-fbd4601588d6,Bagno curato,"Bagno davvero pulito, doccia brillante e prodotti ben disposti.",Housekeeping,positivo
+1f630c2e-64e1-4300-bacf-a27ebd393d38,Pulizie impeccabili,"Pulizia accurata ogni giorno, lenzuola pulite e stanza ordinata.",Housekeeping,positivo
+481a4d11-df21-4964-a71f-564f4d9684b5,Pulizie impeccabili,"Pulizia accurata ogni giorno, lenzuola pulite e stanza ordinata.",Housekeeping,positivo
+5e6570f6-1b8e-4be3-8b33-fa3e17c43458,Camera sporca,"Polvere sui mobili e lenzuola macchiate, pulizia insufficiente. Inoltre, errore nella prenotazione e tempi lunghi per sistemare tutto.",Housekeeping,negativo
+11ef0a98-87ca-4e00-85ec-ca2a7e75ac58,Check-in lento,Attesa lunga per le chiavi e poca organizzazione al banco.,Reception,negativo
+cee5a372-26a4-4b12-90ef-0bb08206ae0d,Check-in lento,Attesa lunga per le chiavi e poca organizzazione al banco.,Reception,negativo
+d2f4a2dc-e22f-4680-886f-825b7cb4aa4c,Supporto perfetto,Alla reception hanno risolto subito una richiesta senza problemi.,Reception,positivo
+8307e992-4fab-4a5c-a900-efadf581a067,Check-in veloce,"Arrivo rapido, check-in in pochi minuti e staff cordiale.",Reception,positivo
+af36432e-dd29-4e48-ad7e-46269356d112,Check-in veloce,"Arrivo rapido, check-in in pochi minuti e staff cordiale.",Reception,positivo
+45024390-2bf0-43eb-b919-8088e7dd2aea,Cibo freddo,Piatti arrivati tiepidi e buffet poco rifornito.,Food & Beverage,negativo
+3b6fbf9e-bbe0-425a-a193-82214169b1f2,Igiene scarsa,"Ho trovato capelli nel bagno e cestino non svuotato. Inoltre, errore nella prenotazione e tempi lunghi per sistemare tutto.",Housekeeping,negativo
+6375d650-fe92-4dff-8a4f-6e999943d92d,Pulizie impeccabili,"Pulizia accurata ogni giorno, lenzuola pulite e stanza ordinata.",Housekeeping,positivo
+1b217c8a-c971-43ac-8a0f-c84f472aff23,Problemi prenotazione,Errore nella prenotazione e tempi lunghi per sistemare tutto.,Reception,negativo
+103dd5fe-89bc-4e2b-ac42-16338c4713f5,Ristorante ottimo,Piatti ben preparati e servizio attento in sala.,Food & Beverage,positivo
+26db89b1-a833-462c-b901-ab73760b2608,Colazione abbondante,"Buffet ricco e vario, prodotti freschi e buon caffè.",Food & Beverage,positivo
+9972c2e1-0437-44e2-804c-6f8f4e4a6f5f,Check-in lento,Attesa lunga per le chiavi e poca organizzazione al banco.,Reception,negativo
+d1314fb9-6974-4d13-9ac5-c4a46d4ad330,Servizio lento,"Attesa troppo lunga al ristorante e personale distratto. Inoltre, personale poco cortese e difficile ottenere informazioni.",Food & Beverage,negativo
+0b55b2cc-2f4e-4ab1-8efb-adf4bbe4cb3d,Camera perfetta,"Camera pulita e profumata, bagno in ordine, asciugamani freschi.",Housekeeping,positivo
+6289db3f-7d7e-477c-88f7-cbf880c06855,Problemi prenotazione,Errore nella prenotazione e tempi lunghi per sistemare tutto.,Reception,negativo
+91c104d8-4821-47ff-9426-e8921f836f27,Check-in veloce,"Arrivo rapido, check-in in pochi minuti e staff cordiale.",Reception,positivo
+6f7b500c-bd89-4295-8759-409829c77848,Prodotti di qualità,"Colazione con dolci buoni e scelta ampia, tutto molto curato.",Food & Beverage,positivo
+88f46b62-6b4b-4daa-a8b8-654870091bba,Colazione scarsa,"Poca scelta e prodotti non freschi, esperienza deludente.",Food & Beverage,negativo
+379797c1-844f-4e28-aa0a-fd05e3cbf8b3,Bagno curato,"Bagno davvero pulito, doccia brillante e prodotti ben disposti.",Housekeeping,positivo
+4fa82c25-3637-47bf-9ef3-c9fc662b1e87,Camera perfetta,"Camera pulita e profumata, bagno in ordine, asciugamani freschi.",Housekeeping,positivo
+d401f66b-23d4-47f3-9309-459dc419d891,Colazione scarsa,"Poca scelta e prodotti non freschi, esperienza deludente.",Food & Beverage,negativo
+84a1b59f-b5d1-44df-8215-0c1dc2802c1e,Colazione scarsa,"Poca scelta e prodotti non freschi, esperienza deludente.",Food & Beverage,negativo
+fbf7975c-bb16-4db0-9480-46e9362cd392,Accoglienza ottima,"Personale disponibile, spiegazioni chiare e assistenza immediata.",Reception,positivo
+aa270183-cb77-4cc2-887b-bfef8b116669,Poca disponibilità,"Personale poco cortese e difficile ottenere informazioni. Inoltre, attesa troppo lunga al ristorante e personale distratto.",Reception,negativo
+a35a1ac8-0bd4-4b6e-8c62-a5ab0dcbfe82,Bagno trascurato,"Doccia incrostata e cattivo odore, bagno non pulito come dovrebbe.",Housekeeping,negativo
+50b5a504-ed4c-4ec3-b904-345524d8737c,Prodotti di qualità,"Colazione con dolci buoni e scelta ampia, tutto molto curato. Inoltre, personale poco cortese e difficile ottenere informazioni.",Food & Beverage,positivo
+6bb5ade7-2e20-457c-b6c4-636440e6b9b0,Camera perfetta,"Camera pulita e profumata, bagno in ordine, asciugamani freschi.",Housekeeping,positivo
+787710d2-8580-47da-b7b6-1132a6032be4,Accoglienza ottima,"Personale disponibile, spiegazioni chiare e assistenza immediata.",Reception,positivo
+566f02f2-2fd2-40db-846d-23fa27222a04,Bagno trascurato,"Doccia incrostata e cattivo odore, bagno non pulito come dovrebbe.",Housekeeping,negativo
+5ed51e11-aeba-4f2f-989b-2ee745040aa5,Problemi prenotazione,Errore nella prenotazione e tempi lunghi per sistemare tutto.,Reception,negativo
+bb4cdf62-084e-47c6-a172-cb07cf7dd4c5,Prodotti di qualità,"Colazione con dolci buoni e scelta ampia, tutto molto curato.",Food & Beverage,positivo
+2d5faf97-4f8a-4c2e-9ec0-726a0af94a7e,Bagno curato,"Bagno davvero pulito, doccia brillante e prodotti ben disposti.",Housekeeping,positivo
+99d7f031-5b9a-493d-a749-a85ffe0f8c18,Camera perfetta,"Camera pulita e profumata, bagno in ordine, asciugamani freschi.",Housekeeping,positivo
+c42e2943-9a13-4cb2-ba88-f9b18e581f06,Poca disponibilità,Personale poco cortese e difficile ottenere informazioni.,Reception,negativo
+a49cd881-9d1b-4b73-9b9f-de65dd10d58b,Check-in lento,Attesa lunga per le chiavi e poca organizzazione al banco.,Reception,negativo
+51e72e4b-8b3c-48c8-97f0-499bd8888d04,Accoglienza ottima,"Personale disponibile, spiegazioni chiare e assistenza immediata.",Reception,positivo
+2155430c-5f88-4381-a06b-df8fb1aae16a,Colazione abbondante,"Buffet ricco e vario, prodotti freschi e buon caffè.",Food & Beverage,positivo
+90107a0f-d521-412a-9c32-4a92f04d795d,Check-in veloce,"Arrivo rapido, check-in in pochi minuti e staff cordiale.",Reception,positivo
+9b096c29-87de-4cbb-ab57-0bcfdee13e9d,Pulizie impeccabili,"Pulizia accurata ogni giorno, lenzuola pulite e stanza ordinata.",Housekeeping,positivo
+8a774b41-bc6b-44fd-94fc-c856d73f4844,Colazione abbondante,"Buffet ricco e vario, prodotti freschi e buon caffè.",Food & Beverage,positivo
+ec18fdb1-dd6e-4c79-ac0d-20a4086ca7be,Check-in lento,Attesa lunga per le chiavi e poca organizzazione al banco.,Reception,negativo
+a4f8ba0b-f6cc-47ae-93e6-a22c933da761,Bagno curato,"Bagno davvero pulito, doccia brillante e prodotti ben disposti.",Housekeeping,positivo
+62c86c40-a93f-41aa-b92d-96b93b7f7367,Igiene scarsa,Ho trovato capelli nel bagno e cestino non svuotato.,Housekeeping,negativo
+af09f2ee-3904-41e1-99cc-4d8b0ceddd66,Colazione scarsa,"Poca scelta e prodotti non freschi, esperienza deludente.",Food & Beverage,negativo
+fb385eab-b255-4a13-ad7a-76ab9a47c50b,Pulizie impeccabili,"Pulizia accurata ogni giorno, lenzuola pulite e stanza ordinata.",Housekeeping,positivo
+30af3aae-43cc-4260-8fbd-662a23c52dd0,Bagno curato,"Bagno davvero pulito, doccia brillante e prodotti ben disposti.",Housekeeping,positivo
+2337a945-09bb-4e20-bbe8-cb8df8d23d40,Colazione scarsa,"Poca scelta e prodotti non freschi, esperienza deludente.",Food & Beverage,negativo
+193cb6f9-122b-4d5a-86d7-122df5367744,Servizio lento,Attesa troppo lunga al ristorante e personale distratto.,Food & Beverage,negativo
+28878045-6d93-468b-ac41-683e99850199,Check-in lento,Attesa lunga per le chiavi e poca organizzazione al banco.,Reception,negativo
+49a534de-d926-4e36-b620-c172077b72ea,Camera sporca,"Polvere sui mobili e lenzuola macchiate, pulizia insufficiente.",Housekeeping,negativo
+521851dd-ef2e-4bc5-a64f-a3df7bdcd073,Accoglienza ottima,"Personale disponibile, spiegazioni chiare e assistenza immediata.",Reception,positivo
+2fdacef5-7549-451c-9a5e-518e1fa71ec0,Cibo freddo,Piatti arrivati tiepidi e buffet poco rifornito.,Food & Beverage,negativo
+4ac89a8f-8726-44b1-b50c-ee821372d019,Camera sporca,"Polvere sui mobili e lenzuola macchiate, pulizia insufficiente.",Housekeeping,negativo
+71c8f64c-1b91-4f20-85a2-460fcf3a6a69,Accoglienza ottima,"Personale disponibile, spiegazioni chiare e assistenza immediata.",Reception,positivo
+6a48b51a-9b62-497c-a187-c09779bd6d78,Camera perfetta,"Camera pulita e profumata, bagno in ordine, asciugamani freschi.",Housekeeping,positivo
+b8478a77-201d-4056-8a6f-e17737c69495,Colazione abbondante,"Buffet ricco e vario, prodotti freschi e buon caffè.",Food & Beverage,positivo
+10f891b9-b854-47fa-af5b-b3dba48e844f,Ristorante ottimo,Piatti ben preparati e servizio attento in sala.,Food & Beverage,positivo
+ae62b57e-29b6-41e0-84eb-9db1f087d279,Check-in lento,Attesa lunga per le chiavi e poca organizzazione al banco.,Reception,negativo
+99e610d7-f9f9-4eac-a3be-8f335dab2b79,Bagno curato,"Bagno davvero pulito, doccia brillante e prodotti ben disposti.",Housekeeping,positivo
+74710e85-c690-495a-a0f5-5c0545f9c5bc,Supporto perfetto,Alla reception hanno risolto subito una richiesta senza problemi.,Reception,positivo
+f100bf9d-2366-49bd-ad0c-01266de40031,Camera sporca,"Polvere sui mobili e lenzuola macchiate, pulizia insufficiente.",Housekeeping,negativo
+569a830b-caa1-44dd-b16d-9bf389175f12,Problemi prenotazione,Errore nella prenotazione e tempi lunghi per sistemare tutto.,Reception,negativo
+6dbb8b27-d6b2-440c-87c4-0f59b591ce85,Problemi prenotazione,Errore nella prenotazione e tempi lunghi per sistemare tutto.,Reception,negativo
+4c877b00-e036-4cad-af4b-76fa1f18404c,Check-in lento,Attesa lunga per le chiavi e poca organizzazione al banco.,Reception,negativo
+461ef5c7-e2c2-4c7a-bd2e-78c3fdaa626c,Cibo freddo,Piatti arrivati tiepidi e buffet poco rifornito.,Food & Beverage,negativo
+6eab1fdb-f2e8-4692-ad9c-ac375c60da57,Problemi prenotazione,"Errore nella prenotazione e tempi lunghi per sistemare tutto. Inoltre, camera pulita e profumata, bagno in ordine, asciugamani freschi.",Reception,negativo
+0f54c824-309c-4f75-8e2f-8ae6137ebd6f,Problemi prenotazione,Errore nella prenotazione e tempi lunghi per sistemare tutto.,Reception,negativo
+91e49ab0-860b-49b4-8fde-81291297b1dc,Accoglienza ottima,"Personale disponibile, spiegazioni chiare e assistenza immediata.",Reception,positivo
+1fee8f01-e0ad-4cf0-84c6-019a5eeae611,Igiene scarsa,Ho trovato capelli nel bagno e cestino non svuotato.,Housekeeping,negativo
+f68b8c9c-30f3-4771-aeaa-c3974f7368ff,Cibo freddo,Piatti arrivati tiepidi e buffet poco rifornito.,Food & Beverage,negativo
+167af949-7b0d-40c3-bacb-64df24233f5b,Problemi prenotazione,Errore nella prenotazione e tempi lunghi per sistemare tutto.,Reception,negativo
+36ad9a91-fc62-4104-a4eb-50f14a0600a8,Check-in veloce,"Arrivo rapido, check-in in pochi minuti e staff cordiale.",Reception,positivo
+ce7aa31f-a8b4-4bc6-b40f-fec93cf788c6,Supporto perfetto,Alla reception hanno risolto subito una richiesta senza problemi.,Reception,positivo
+99cd75f1-7291-48da-8075-24af06cb3e09,Camera perfetta,"Camera pulita e profumata, bagno in ordine, asciugamani freschi.",Housekeeping,positivo
+0d73fab6-08ce-4729-9f21-f2f638dba7a0,Colazione abbondante,"Buffet ricco e vario, prodotti freschi e buon caffè.",Food & Beverage,positivo
+8ad85538-b9af-4d7f-a20f-103b05e21b20,Colazione abbondante,"Buffet ricco e vario, prodotti freschi e buon caffè.",Food & Beverage,positivo
+dd3c9608-ffff-4dd1-81a5-914fa53139f1,Bagno curato,"Bagno davvero pulito, doccia brillante e prodotti ben disposti.",Housekeeping,positivo
+83a5bc18-5b6c-4793-a613-5fab2d2e14de,Igiene scarsa,Ho trovato capelli nel bagno e cestino non svuotato.,Housekeeping,negativo
+307d9fd6-36e4-482c-b218-34113315b01c,Camera sporca,"Polvere sui mobili e lenzuola macchiate, pulizia insufficiente. Inoltre, poca scelta e prodotti non freschi, esperienza deludente.",Housekeeping,negativo
+bad6c2cc-57a9-4085-8b52-270fe33d421e,Colazione scarsa,"Poca scelta e prodotti non freschi, esperienza deludente. Inoltre, camera pulita e profumata, bagno in ordine, asciugamani freschi.",Food & Beverage,negativo
+f1f96f8c-36d6-4821-ac03-6fd6beb7a36d,Bagno trascurato,"Doccia incrostata e cattivo odore, bagno non pulito come dovrebbe.",Housekeeping,negativo
+d9c9a9b2-ec05-4d93-8651-47e7b4787077,Accoglienza ottima,"Personale disponibile, spiegazioni chiare e assistenza immediata.",Reception,positivo
+9176e067-db32-43ad-8cc5-56cf96bc9a30,Supporto perfetto,Alla reception hanno risolto subito una richiesta senza problemi.,Reception,positivo
+f6b661fa-613b-4465-bf7b-6a54ebd7cda7,Prodotti di qualità,"Colazione con dolci buoni e scelta ampia, tutto molto curato.",Food & Beverage,positivo
+4926fb53-a000-49d0-bb6e-0b053c65e54f,Colazione abbondante,"Buffet ricco e vario, prodotti freschi e buon caffè.",Food & Beverage,positivo
+60f79d1e-4dff-48dd-a278-b10c1117b8e4,Check-in lento,Attesa lunga per le chiavi e poca organizzazione al banco.,Reception,negativo
+5aa1e6a4-5c0c-4f2f-af7e-383cf32dcf63,Colazione abbondante,"Buffet ricco e vario, prodotti freschi e buon caffè.",Food & Beverage,positivo
+746edc02-7f77-4d29-9f03-ef3ba1c1bc0f,Poca disponibilità,Personale poco cortese e difficile ottenere informazioni.,Reception,negativo
+246c05ab-edf5-425c-8cf1-044ddb7544d9,Camera perfetta,"Camera pulita e profumata, bagno in ordine, asciugamani freschi.",Housekeeping,positivo
+97400cd4-a625-4e67-a575-0f0737953924,Cibo freddo,"Piatti arrivati tiepidi e buffet poco rifornito. Inoltre, ho trovato capelli nel bagno e cestino non svuotato.",Food & Beverage,negativo
+a5050096-1b2c-473b-a432-fd1754ecd1c3,Colazione abbondante,"Buffet ricco e vario, prodotti freschi e buon caffè.",Food & Beverage,positivo
+5ff913c7-6d1a-4142-82a1-6eaea7ac20a2,Check-in veloce,"Arrivo rapido, check-in in pochi minuti e staff cordiale.",Reception,positivo
+cc5ac99a-9b58-4db7-b21f-33fe6441f9e2,Colazione scarsa,"Poca scelta e prodotti non freschi, esperienza deludente.",Food & Beverage,negativo
+46b70bb7-4837-4695-a39e-7d2625a34177,Prodotti di qualità,"Colazione con dolci buoni e scelta ampia, tutto molto curato.",Food & Beverage,positivo
+4185bf43-33c3-4f73-8012-36eed566d9aa,Problemi prenotazione,Errore nella prenotazione e tempi lunghi per sistemare tutto.,Reception,negativo
+7f7eef91-25b9-476a-92ec-c584777cd08b,Bagno curato,"Bagno davvero pulito, doccia brillante e prodotti ben disposti.",Housekeeping,positivo
+0195f945-bbe2-4ec8-99cc-7a27a32e2590,Check-in veloce,"Arrivo rapido, check-in in pochi minuti e staff cordiale.",Reception,positivo
+850aaf92-dbf3-4e2c-a914-e607bfbc285e,Igiene scarsa,Ho trovato capelli nel bagno e cestino non svuotato.,Housekeeping,negativo
+0dc1a11a-3534-459d-855b-aa58c410bf2f,Cibo freddo,"Piatti arrivati tiepidi e buffet poco rifornito. Inoltre, errore nella prenotazione e tempi lunghi per sistemare tutto.",Food & Beverage,negativo
